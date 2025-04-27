@@ -11369,105 +11369,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+  "minecraft:recipes/misc/raw_iron": {
     "criteria": {
-      "has_deepslate_tiles": "2025-04-27 15:56:29 +0200"
-    },
-    "done": true
-  },
-  "adorabuild_structures:treasure_seeker": {
-    "criteria": {
-      "birch_tree_1": "2025-04-27 15:26:23 +0200"
-    },
-    "done": false
-  },
-  "natures_spirit:recipes/redstone/sugi_button": {
-    "criteria": {
-      "has_planks": "2025-04-27 16:06:31 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-04-27 15:56:29 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_sandstone": {
-    "criteria": {
-      "has_sandstone_slab": "2025-04-27 15:12:39 +0200"
-    },
-    "done": true
-  },
-  "natures_spirit:recipes/building_blocks/sugi_wood": {
-    "criteria": {
-      "has_log": "2025-04-27 16:04:06 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-04-27 15:56:29 +0200"
-    },
-    "done": true
-  },
-  "natures_spirit:recipes/building_blocks/sugi_stairs": {
-    "criteria": {
-      "has_planks": "2025-04-27 16:06:31 +0200"
-    },
-    "done": true
-  },
-  "repurposed_structures:witch_huts": {
-    "criteria": {
-      "in_witch_hut_oak": "2025-04-27 16:00:21 +0200"
-    },
-    "done": false
-  },
-  "natures_spirit:recipes/building_blocks/sugi_slab": {
-    "criteria": {
-      "has_planks": "2025-04-27 16:06:31 +0200"
-    },
-    "done": true
-  },
-  "charm:totem_of_preserving/recipes/totem_of_preserving": {
-    "criteria": {
-      "has_totem": "2025-04-27 15:32:59 +0200"
-    },
-    "done": true
-  },
-  "variantcraftingtables:recipes/misc/ns_sugi_crafting_table": {
-    "criteria": {
-      "has_planks": "2025-04-27 16:06:31 +0200"
-    },
-    "done": true
-  },
-  "natures_spirit:recipes/redstone/sugi_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-04-27 16:06:31 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather": {
-    "criteria": {
-      "has_rabbit_hide": "2025-04-27 15:09:54 +0200"
-    },
-    "done": true
-  },
-  "jaizmod:recipes/building_blocks/fancy_green_carpet": {
-    "criteria": {
-      "has_fancy_green_wool": "2025-04-27 14:58:58 +0200"
-    },
-    "done": true
-  },
-  "natures_spirit:recipes/redstone/sugi_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-04-27 16:06:31 +0200"
-    },
-    "done": true
-  },
-  "fwaystones:recipe/void_totem": {
-    "criteria": {
-      "has_totem_of_undying": "2025-04-27 15:32:59 +0200"
+      "has_raw_iron_block": "2025-04-27 14:53:59 +0200"
     },
     "done": true
   },
@@ -11477,21 +11381,9 @@
     },
     "done": true
   },
-  "natures_spirit:recipes/building_blocks/sugi_planks": {
+  "jaizmod:adventure/obsidian_shards": {
     "criteria": {
-      "has_logs": "2025-04-27 16:04:06 +0200"
-    },
-    "done": true
-  },
-  "charm:kilns/recipes/cracked_deepslate_tiles": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-04-27 15:56:29 +0200"
-    },
-    "done": true
-  },
-  "natures_spirit:recipes/decorations/sugi_fence": {
-    "criteria": {
-      "has_planks": "2025-04-27 16:06:31 +0200"
+      "obsidian_shard": "2025-04-27 14:57:14 +0200"
     },
     "done": true
   },
@@ -11501,17 +11393,41 @@
     },
     "done": true
   },
-  "jaizmod:adventure/obsidian_shards": {
+  "jaizmod:recipes/building_blocks/terracotta_brick_slab": {
     "criteria": {
-      "obsidian_shard": "2025-04-27 14:57:14 +0200"
+      "has_terracotta_bricks": "2025-04-27 14:58:23 +0200"
     },
     "done": true
   },
-  "charm:sugar_block/recipes/sugar_block": {
+  "jaizmod:recipes/building_blocks/terracotta_brick_wall": {
     "criteria": {
-      "has_sugar": "2025-04-27 16:00:27 +0200"
+      "has_terracotta_bricks": "2025-04-27 14:58:23 +0200"
     },
     "done": true
+  },
+  "jaizmod:recipes/building_blocks/fancy_green_carpet": {
+    "criteria": {
+      "has_fancy_green_wool": "2025-04-27 14:58:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-04-27 15:09:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_sandstone_slab": "2025-04-27 15:12:39 +0200"
+    },
+    "done": true
+  },
+  "adorabuild_structures:treasure_seeker": {
+    "criteria": {
+      "birch_tree_1": "2025-04-27 15:26:23 +0200"
+    },
+    "done": false
   },
   "friendsandfoes:adventure/the_magicians": {
     "criteria": {
@@ -11519,15 +11435,45 @@
     },
     "done": false
   },
-  "jaizmod:recipes/building_blocks/terracotta_brick_slab": {
+  "charm:totem_of_preserving/recipes/totem_of_preserving": {
     "criteria": {
-      "has_terracotta_bricks": "2025-04-27 14:58:23 +0200"
+      "has_totem": "2025-04-27 15:32:59 +0200"
     },
     "done": true
   },
-  "natures_spirit:recipes/redstone/sugi_door": {
+  "fwaystones:recipe/void_totem": {
     "criteria": {
-      "has_planks": "2025-04-27 16:06:31 +0200"
+      "has_totem_of_undying": "2025-04-27 15:32:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-27 15:46:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-04-27 15:56:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-04-27 15:56:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-04-27 15:56:29 +0200"
+    },
+    "done": true
+  },
+  "charm:kilns/recipes/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-04-27 15:56:29 +0200"
     },
     "done": true
   },
@@ -11549,9 +11495,81 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
     "criteria": {
-      "has_log": "2025-04-27 15:46:14 +0200"
+      "has_deepslate_tiles": "2025-04-27 15:56:29 +0200"
+    },
+    "done": true
+  },
+  "repurposed_structures:witch_huts": {
+    "criteria": {
+      "in_witch_hut_oak": "2025-04-27 16:00:21 +0200"
+    },
+    "done": false
+  },
+  "charm:sugar_block/recipes/sugar_block": {
+    "criteria": {
+      "has_sugar": "2025-04-27 16:00:27 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/sugi_wood": {
+    "criteria": {
+      "has_log": "2025-04-27 16:04:06 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/sugi_planks": {
+    "criteria": {
+      "has_logs": "2025-04-27 16:04:06 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/sugi_button": {
+    "criteria": {
+      "has_planks": "2025-04-27 16:06:31 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/sugi_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-27 16:06:31 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/sugi_slab": {
+    "criteria": {
+      "has_planks": "2025-04-27 16:06:31 +0200"
+    },
+    "done": true
+  },
+  "variantcraftingtables:recipes/misc/ns_sugi_crafting_table": {
+    "criteria": {
+      "has_planks": "2025-04-27 16:06:31 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/sugi_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-27 16:06:31 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/sugi_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-27 16:06:31 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/decorations/sugi_fence": {
+    "criteria": {
+      "has_planks": "2025-04-27 16:06:31 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/sugi_door": {
+    "criteria": {
+      "has_planks": "2025-04-27 16:06:31 +0200"
     },
     "done": true
   },
@@ -11567,21 +11585,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+  "charm:totems_work_from_inventory/used_totem_from_inventory": {
     "criteria": {
-      "has_deepslate_tiles": "2025-04-27 15:56:29 +0200"
+      "used_totem_from_inventory": "2025-04-27 20:45:40 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/misc/raw_iron": {
+  "minecraft:adventure/totem_of_undying": {
     "criteria": {
-      "has_raw_iron_block": "2025-04-27 14:53:59 +0200"
+      "used_totem": "2025-04-27 20:45:40 +0200"
     },
     "done": true
   },
-  "jaizmod:recipes/building_blocks/terracotta_brick_wall": {
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
-      "has_terracotta_bricks": "2025-04-27 14:58:23 +0200"
+      "has_wither_rose": "2025-04-27 20:57:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2025-04-27 20:57:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-04-28 00:51:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-04-28 00:54:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-04-28 00:54:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-04-28 00:54:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-04-28 00:54:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-04-28 00:54:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-04-28 00:54:18 +0200"
     },
     "done": true
   },

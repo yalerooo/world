@@ -6188,6 +6188,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "onion": "2025-04-22 10:42:19 +0200",
+      "glow_berries": "2025-04-27 20:57:43 +0200",
       "potato": "2025-04-23 20:19:30 +0200",
       "wheat": "2025-04-25 17:38:50 +0200",
       "tomato": "2025-04-22 10:42:08 +0200"
@@ -10082,33 +10083,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-04-27 13:45:13 +0200"
+    },
+    "done": true
+  },
   "miku-plushie:recipes/decorations/miku_plush_santa_elf": {
     "criteria": {
       "has_cyan_wool": "2025-04-27 13:53:22 +0200"
     },
     "done": true
   },
-  "another_furniture:recipes/blue_tall_stool": {
-    "criteria": {
-      "has_wool": "2025-04-27 13:53:40 +0200"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/blue_curtain": {
-    "criteria": {
-      "has_wool": "2025-04-27 13:53:40 +0200"
-    },
-    "done": true
-  },
   "miku-plushie:recipes/decorations/miku_plush_frog": {
     "criteria": {
       "has_cyan_wool": "2025-04-27 13:53:22 +0200"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/blue_sofa": {
-    "criteria": {
-      "has_wool": "2025-04-27 13:53:40 +0200"
     },
     "done": true
   },
@@ -10142,33 +10131,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_bed": {
-    "criteria": {
-      "has_blue_wool": "2025-04-27 13:53:40 +0200"
-    },
-    "done": true
-  },
   "comforts:recipes/decorations/hammock_cyan": {
     "criteria": {
       "has_cyan_wool": "2025-04-27 13:53:22 +0200"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/blue_sheet": {
-    "criteria": {
-      "has_blue_sheet": "2025-04-27 13:53:40 +0200"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/blue_stool": {
-    "criteria": {
-      "has_wool": "2025-04-27 13:53:40 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_banner": {
-    "criteria": {
-      "has_blue_wool": "2025-04-27 13:53:40 +0200"
     },
     "done": true
   },
@@ -10190,27 +10155,81 @@
     },
     "done": true
   },
-  "comforts:recipes/decorations/hammock_blue": {
-    "criteria": {
-      "has_blue_wool": "2025-04-27 13:53:40 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cyan_carpet": {
     "criteria": {
       "has_cyan_wool": "2025-04-27 13:53:22 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jack_o_lantern": {
-    "criteria": {
-      "has_carved_pumpkin": "2025-04-27 13:45:13 +0200"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/cyan_cushion": {
     "criteria": {
       "has_cyan_cushion": "2025-04-27 13:53:22 +0200"
+    },
+    "done": true
+  },
+  "miku-plushie:recipes/decorations/miku_plush_br": {
+    "criteria": {
+      "has_cyan_wool": "2025-04-27 13:53:22 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cyan_lamp": {
+    "criteria": {
+      "has_wool": "2025-04-27 13:53:22 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cyan_sofa": {
+    "criteria": {
+      "has_wool": "2025-04-27 13:53:22 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/blue_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-04-27 13:53:40 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/blue_curtain": {
+    "criteria": {
+      "has_wool": "2025-04-27 13:53:40 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/blue_sofa": {
+    "criteria": {
+      "has_wool": "2025-04-27 13:53:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2025-04-27 13:53:40 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_sheet": {
+    "criteria": {
+      "has_blue_sheet": "2025-04-27 13:53:40 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/blue_stool": {
+    "criteria": {
+      "has_wool": "2025-04-27 13:53:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2025-04-27 13:53:40 +0200"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/hammock_blue": {
+    "criteria": {
+      "has_blue_wool": "2025-04-27 13:53:40 +0200"
     },
     "done": true
   },
@@ -10244,21 +10263,21 @@
     },
     "done": true
   },
-  "miku-plushie:recipes/decorations/miku_plush_br": {
+  "minecraft:recipes/decorations/birch_hanging_sign": {
     "criteria": {
-      "has_cyan_wool": "2025-04-27 13:53:22 +0200"
+      "has_stripped_logs": "2025-04-27 21:08:11 +0200"
     },
     "done": true
   },
-  "another_furniture:recipes/cyan_lamp": {
+  "minecraft:adventure/throw_trident": {
     "criteria": {
-      "has_wool": "2025-04-27 13:53:22 +0200"
+      "shot_trident": "2025-04-27 20:38:39 +0200"
     },
     "done": true
   },
-  "another_furniture:recipes/cyan_sofa": {
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
     "criteria": {
-      "has_wool": "2025-04-27 13:53:22 +0200"
+      "has_log": "2025-04-27 21:08:11 +0200"
     },
     "done": true
   },

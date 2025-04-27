@@ -130,9 +130,12 @@
       "minecraft:old_growth_pine_taiga": "2025-04-27 16:16:38 +0200",
       "minecraft:forest": "2025-04-21 18:24:23 +0200",
       "minecraft:taiga": "2025-04-22 23:35:28 +0200",
+      "minecraft:deep_ocean": "2025-04-27 19:59:16 +0200",
       "minecraft:lush_caves": "2025-04-27 16:14:47 +0200",
       "natures_spirit:sparse_tropical_woods": "2025-04-21 20:17:50 +0200",
+      "minecraft:deep_cold_ocean": "2025-04-27 20:32:13 +0200",
       "minecraft:ice_spikes": "2025-04-24 00:19:27 +0200",
+      "natures_spirit:wooded_drylands": "2025-04-27 20:46:22 +0200",
       "minecraft:frozen_river": "2025-04-23 23:29:22 +0200",
       "natures_spirit:blooming_sugi_forest": "2025-04-27 16:05:45 +0200",
       "natures_spirit:shrubland": "2025-04-21 17:23:22 +0200",
@@ -502,13 +505,16 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-23 18:05:26 +0200",
+      "apple": "2025-04-27 20:38:52 +0200",
       "bread": "2025-04-21 17:15:33 +0200",
       "golden_apple": "2025-04-21 19:52:20 +0200",
       "cooked_mutton": "2025-04-21 20:12:19 +0200",
       "cooked_cod": "2025-04-21 20:14:21 +0200",
       "sweet_berries": "2025-04-21 18:08:34 +0200",
+      "cod": "2025-04-27 20:19:02 +0200",
       "baked_potato": "2025-04-21 19:25:30 +0200",
       "pumpkin_pie": "2025-04-21 20:25:32 +0200",
+      "golden_carrot": "2025-04-27 21:09:03 +0200",
       "carrot": "2025-04-22 00:36:02 +0200"
     },
     "done": false
@@ -1666,6 +1672,7 @@
       "rocky_shrubland": "2025-04-21 20:22:03 +0200",
       "redwood_forest": "2025-04-21 18:35:59 +0200",
       "scrubland": "2025-04-21 20:16:56 +0200",
+      "fungal_jungle": "2025-04-27 20:49:43 +0200",
       "aspen_glade": "2025-04-23 01:03:49 +0200",
       "dune_beach": "2025-04-21 20:50:21 +0200",
       "floodplain": "2025-04-21 20:19:24 +0200",
@@ -1675,10 +1682,14 @@
       "volcano": "2025-04-22 13:18:05 +0200",
       "rocky_rainforest": "2025-04-22 12:59:31 +0200",
       "jade_cliffs": "2025-04-23 17:06:23 +0200",
+      "mystic_grove": "2025-04-27 20:48:05 +0200",
       "lavender_field": "2025-04-21 17:40:05 +0200",
+      "old_growth_woodland": "2025-04-27 20:34:52 +0200",
       "maple_woods": "2025-04-21 20:35:10 +0200",
+      "fir_clearing": "2025-04-27 20:29:15 +0200",
       "pumpkin_patch": "2025-04-23 00:56:07 +0200",
       "prairie": "2025-04-22 23:48:52 +0200",
+      "grassland": "2025-04-27 20:45:09 +0200",
       "gravel_beach": "2025-04-22 23:24:21 +0200",
       "orchard": "2025-04-21 17:54:29 +0200",
       "field": "2025-04-21 20:30:26 +0200",
@@ -2148,6 +2159,7 @@
       "oak_house_large_1": "2025-04-21 20:51:53 +0200",
       "birch_house_medium_2": "2025-04-21 21:58:45 +0200",
       "oak_house_small_3": "2025-04-21 17:54:50 +0200",
+      "oak_house_medium_1": "2025-04-27 20:19:55 +0200",
       "prison_large_1": "2025-04-21 19:19:51 +0200"
     },
     "done": false
@@ -8342,7 +8354,8 @@
   },
   "repurposed_structures:mansions": {
     "criteria": {
-      "in_mansion_jungle": "2025-04-22 13:06:39 +0200"
+      "in_mansion_jungle": "2025-04-22 13:06:39 +0200",
+      "in_mansion_oak": "2025-04-27 20:27:40 +0200"
     },
     "done": false
   },
@@ -8355,6 +8368,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "variantsandventures:gelid": "2025-04-22 23:18:00 +0200",
+      "variantsandventures:verdant": "2025-04-27 20:59:29 +0200",
       "variantsandventures:thicket": "2025-04-22 13:08:39 +0200"
     },
     "done": false
@@ -9927,7 +9941,8 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
-      "in_pyramid_giant_tree_taiga": "2025-04-22 23:44:06 +0200"
+      "in_pyramid_giant_tree_taiga": "2025-04-22 23:44:06 +0200",
+      "in_pyramid_jungle": "2025-04-27 21:05:55 +0200"
     },
     "done": false
   },
@@ -12655,12 +12670,6 @@
     },
     "done": true
   },
-  "minecraft:nether/brew_potion": {
-    "criteria": {
-      "potion": "2025-04-27 16:22:04 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2025-04-27 16:20:32 +0200"
@@ -12673,15 +12682,442 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-04-27 16:20:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-04-27 16:22:04 +0200"
+    },
+    "done": true
+  },
   "frostiful:recipes/combat/armor/fur_padded_chainmail_chestplate": {
     "criteria": {
       "has_fur_armor": "2025-04-27 16:45:49 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/misc/skull_banner_pattern": {
+  "farmersdelight:recipes/food/cake_from_milk_bottle": {
     "criteria": {
-      "has_wither_skeleton_skull": "2025-04-27 16:20:53 +0200"
+      "has_milk_bottle": "2025-04-27 19:26:59 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/milk_bucket_from_bottles": {
+    "criteria": {
+      "has_milk_bottle": "2025-04-27 19:26:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-04-27 19:28:22 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-04-27 19:29:49 +0200"
+    },
+    "done": true
+  },
+  "charm:recipe_improvements/recipes/gilded_blackstone": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-27 19:31:26 +0200"
+    },
+    "done": true
+  },
+  "kattersstructures:ambient/birch_tree": {
+    "criteria": {
+      "birch_tree": "2025-04-27 19:58:09 +0200"
+    },
+    "done": true
+  },
+  "kattersstructures:village/village_ocean": {
+    "criteria": {
+      "village_ocean": "2025-04-27 19:59:33 +0200"
+    },
+    "done": true
+  },
+  "kattersstructures:village/village_all": {
+    "criteria": {
+      "village_birch": "2025-04-27 20:14:09 +0200",
+      "village_ocean": "2025-04-27 19:59:33 +0200"
+    },
+    "done": false
+  },
+  "kattersstructures:village/a_village": {
+    "criteria": {
+      "village_ocean": "2025-04-27 19:59:33 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bamboo_pillar_trim": {
+    "criteria": {
+      "has_bamboo_pillar_trim": "2025-04-27 20:00:22 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bamboo_drawer": {
+    "criteria": {
+      "has_bamboo_drawer": "2025-04-27 20:00:22 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bamboo_desk": {
+    "criteria": {
+      "has_bamboo_desk": "2025-04-27 20:00:22 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bamboo_shelf": {
+    "criteria": {
+      "has_bamboo_shelf": "2025-04-27 20:00:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_fence": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:00:22 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bamboo_table": {
+    "criteria": {
+      "has_bamboo_table": "2025-04-27 20:00:22 +0200"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/chiseled_bamboo_bookshelf": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:00:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:00:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_slab": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:00:22 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bamboo_chair": {
+    "criteria": {
+      "has_bamboo_chair": "2025-04-27 20:00:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_button": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:00:22 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bamboo_fancy_bed": {
+    "criteria": {
+      "has_bamboo_fancy_bed": "2025-04-27 20:00:22 +0200"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/bamboo_chest": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:00:22 +0200"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/bamboo_barrel": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:00:22 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/bamboo_chair": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:00:22 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bamboo_bench": {
+    "criteria": {
+      "has_bamboo_bench": "2025-04-27 20:00:22 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bamboo_counter": {
+    "criteria": {
+      "has_bamboo_counter": "2025-04-27 20:00:22 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bamboo_nightstand": {
+    "criteria": {
+      "has_bamboo_nightstand": "2025-04-27 20:00:22 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bamboo_corner_trim": {
+    "criteria": {
+      "has_bamboo_corner_trim": "2025-04-27 20:00:22 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/bamboo_table": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:00:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_sign": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:00:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_door": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:00:22 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/bamboo_shelf": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:00:22 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bamboo_couch": {
+    "criteria": {
+      "has_bamboo_couch": "2025-04-27 20:00:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:00:22 +0200"
+    },
+    "done": true
+  },
+  "variantcraftingtables:recipes/misc/bamboo_crafting_table": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:00:22 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bamboo_dining_bench": {
+    "criteria": {
+      "has_bamboo_dining_bench": "2025-04-27 20:00:22 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bamboo_side_table": {
+    "criteria": {
+      "has_bamboo_side_table": "2025-04-27 20:00:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:00:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:00:22 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bamboo_cupboard": {
+    "criteria": {
+      "has_bamboo_cupboard": "2025-04-27 20:00:22 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_gray_cushion": {
+    "criteria": {
+      "has_light_gray_cushion": "2025-04-27 20:01:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-04-27 20:01:04 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_stool": {
+    "criteria": {
+      "has_wool": "2025-04-27 20:01:04 +0200"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/sleeping_bag_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-04-27 20:01:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-04-27 20:01:04 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-04-27 20:01:04 +0200"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/hammock_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-04-27 20:01:04 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_gray_sheet": {
+    "criteria": {
+      "has_light_gray_sheet": "2025-04-27 20:01:04 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-04-27 20:01:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-04-27 20:01:04 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_curtain": {
+    "criteria": {
+      "has_wool": "2025-04-27 20:01:04 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_lamp": {
+    "criteria": {
+      "has_wool": "2025-04-27 20:01:04 +0200"
+    },
+    "done": true
+  },
+  "kattersstructures:village/village_birch": {
+    "criteria": {
+      "village_mesa": "2025-04-27 20:14:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-04-27 20:17:34 +0200"
+    },
+    "done": true
+  },
+  "charm:smooth_glowstone/recipes/smooth_glowstone": {
+    "criteria": {
+      "has_glowstone": "2025-04-27 20:17:34 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_flower_box": {
+    "criteria": {
+      "has_slab": "2025-04-27 20:22:29 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_shutter": {
+    "criteria": {
+      "has_slab": "2025-04-27 20:22:29 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_bench": {
+    "criteria": {
+      "has_slab": "2025-04-27 20:22:29 +0200"
+    },
+    "done": true
+  },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_birch": "2025-04-27 20:26:06 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-04-27 20:43:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-04-27 20:43:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-04-27 20:43:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-04-27 20:43:49 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_wood": {
+    "criteria": {
+      "has_log": "2025-04-27 20:48:29 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_planks": {
+    "criteria": {
+      "has_logs": "2025-04-27 20:48:29 +0200"
+    },
+    "done": true
+  },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_mushroom": "2025-04-27 20:52:30 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-04-27 21:01:58 +0200"
+    },
+    "done": true
+  },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_jungle": "2025-04-27 21:03:41 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-04-27 21:04:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-04-27 21:08:22 +0200"
     },
     "done": true
   },

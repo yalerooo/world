@@ -841,7 +841,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-21 18:42:53 +0200",
+      "mutton": "2025-04-27 22:58:54 +0200",
       "apple": "2025-04-21 19:21:28 +0200",
+      "chicken": "2025-04-27 22:57:38 +0200",
       "golden_apple": "2025-04-21 18:11:39 +0200",
       "bread": "2025-04-21 17:15:56 +0200",
       "cooked_mutton": "2025-04-21 20:17:17 +0200",
@@ -9596,6 +9598,120 @@
   "miku-plushie:recipes/decorations/miku_plush_devil": {
     "criteria": {
       "has_magma_block": "2025-04-27 16:51:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-27 17:59:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-27 17:59:23 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_gray_cushion": {
+    "criteria": {
+      "has_light_gray_cushion": "2025-04-27 22:58:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-04-27 22:56:07 +0200"
+    },
+    "done": true
+  },
+  "jaizmod:recipes/building_blocks/fancy_light_gray_wool": {
+    "criteria": {
+      "has_light_gray_wool": "2025-04-27 22:58:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-04-27 22:58:52 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_stool": {
+    "criteria": {
+      "has_wool": "2025-04-27 22:58:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-04-27 22:56:07 +0200"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/sleeping_bag_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-04-27 22:58:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-04-27 22:58:52 +0200"
+    },
+    "done": true
+  },
+  "miku-plushie:recipes/decorations/miku_plush_br_fut_cam": {
+    "criteria": {
+      "has_light_gray_wool": "2025-04-27 22:58:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-04-27 22:56:07 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-04-27 22:58:52 +0200"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/hammock_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-04-27 22:58:52 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_gray_sheet": {
+    "criteria": {
+      "has_light_gray_sheet": "2025-04-27 22:58:52 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-04-27 22:58:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-04-27 22:58:52 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_curtain": {
+    "criteria": {
+      "has_wool": "2025-04-27 22:58:52 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_lamp": {
+    "criteria": {
+      "has_wool": "2025-04-27 22:58:52 +0200"
     },
     "done": true
   },

@@ -125,6 +125,7 @@
       "minecraft:snowy_slopes": "2025-04-21 18:21:44 +0200",
       "minecraft:old_growth_pine_taiga": "2025-04-27 16:02:43 +0200",
       "minecraft:taiga": "2025-04-21 19:47:02 +0200",
+      "minecraft:deep_ocean": "2025-04-27 19:55:02 +0200",
       "natures_spirit:cypress_fields": "2025-04-21 18:12:11 +0200",
       "natures_spirit:sparse_tropical_woods": "2025-04-21 18:35:11 +0200",
       "natures_spirit:alpine_highlands": "2025-04-23 23:22:19 +0200",
@@ -138,6 +139,8 @@
       "minecraft:beach": "2025-04-21 18:32:47 +0200",
       "minecraft:dark_forest": "2025-04-21 19:14:44 +0200",
       "natures_spirit:prairie": "2025-04-27 16:09:22 +0200",
+      "minecraft:sparse_jungle": "2025-04-27 20:20:56 +0200",
+      "natures_spirit:tropical_woods": "2025-04-27 20:22:58 +0200",
       "minecraft:river": "2025-04-21 17:51:34 +0200",
       "minecraft:lukewarm_ocean": "2025-04-21 19:18:58 +0200",
       "minecraft:stony_shore": "2025-04-21 17:51:46 +0200",
@@ -158,6 +161,7 @@
       "natures_spirit:fir_forest": "2025-04-27 16:03:27 +0200",
       "minecraft:deep_cold_ocean": "2025-04-26 17:22:29 +0200",
       "minecraft:ice_spikes": "2025-04-23 23:28:06 +0200",
+      "natures_spirit:wooded_drylands": "2025-04-27 20:19:53 +0200",
       "minecraft:frozen_ocean": "2025-04-21 19:53:44 +0200",
       "minecraft:deep_frozen_ocean": "2025-04-21 19:54:48 +0200",
       "natures_spirit:tundra": "2025-04-23 23:23:03 +0200",
@@ -522,6 +526,7 @@
       "sweet_berries": "2025-04-26 16:35:34 +0200",
       "salmon": "2025-04-21 18:30:00 +0200",
       "baked_potato": "2025-04-26 17:24:26 +0200",
+      "beef": "2025-04-27 20:45:40 +0200",
       "porkchop": "2025-04-21 18:18:44 +0200",
       "beetroot": "2025-04-22 13:57:36 +0200",
       "apple": "2025-04-22 00:06:02 +0200",
@@ -620,6 +625,7 @@
       "rocky_shrubland": "2025-04-21 17:51:36 +0200",
       "redwood_forest": "2025-04-21 17:57:33 +0200",
       "scrubland": "2025-04-21 18:36:58 +0200",
+      "fungal_jungle": "2025-04-27 20:21:45 +0200",
       "aspen_glade": "2025-04-23 16:49:09 +0200",
       "dune_beach": "2025-04-23 16:44:31 +0200",
       "floodplain": "2025-04-21 18:15:39 +0200",
@@ -632,6 +638,7 @@
       "pasture": "2025-04-23 23:16:05 +0200",
       "jade_cliffs": "2025-04-23 17:00:31 +0200",
       "volcanic_plains": "2025-04-21 18:16:07 +0200",
+      "mystic_grove": "2025-04-27 20:56:04 +0200",
       "lavender_field": "2025-04-21 17:50:33 +0200",
       "old_growth_woodland": "2025-04-21 18:16:15 +0200",
       "maple_woods": "2025-04-23 16:17:13 +0200",
@@ -645,6 +652,7 @@
       "orchard": "2025-04-21 17:50:40 +0200",
       "field": "2025-04-21 19:46:28 +0200",
       "overgrown_greens": "2025-04-21 18:32:25 +0200",
+      "moor": "2025-04-27 20:01:05 +0200",
       "mediterranean_forest": "2025-04-21 19:22:32 +0200",
       "rainforest": "2025-04-21 18:09:03 +0200",
       "crag": "2025-04-21 19:47:53 +0200",
@@ -3708,7 +3716,9 @@
       "oak_house_large_1": "2025-04-23 16:43:55 +0200",
       "birch_house_medium_2": "2025-04-21 20:06:26 +0200",
       "oak_house_small_3": "2025-04-23 16:40:12 +0200",
-      "oak_tree_1": "2025-04-23 23:19:20 +0200"
+      "oak_house_medium_1": "2025-04-27 20:50:25 +0200",
+      "oak_tree_1": "2025-04-23 23:19:20 +0200",
+      "prison_large_1": "2025-04-27 21:12:14 +0200"
     },
     "done": false
   },
@@ -8517,18 +8527,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/allay_deliver_item_to_player": {
-    "criteria": {
-      "allay_deliver_item_to_player": "2025-04-27 16:31:15 +0200"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/glow_berry_custard": {
-    "criteria": {
-      "has_any_ingredient": "2025-04-27 16:21:05 +0200"
-    },
-    "done": true
-  },
   "frostiful:recipes/building_block/cut_blue_ice_stairs_from_blue_ice_stonecutting": {
     "criteria": {
       "has_blue_ice": "2025-04-27 15:43:41 +0200"
@@ -8562,6 +8560,1058 @@
   "frostiful:recipes/building_block/cut_blue_ice": {
     "criteria": {
       "has_blue_ice": "2025-04-27 15:43:41 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-27 16:21:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/allay_deliver_item_to_player": {
+    "criteria": {
+      "allay_deliver_item_to_player": "2025-04-27 16:31:15 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_blackstone_brick_stairs_from_blackstone_or_mossy_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_mossy_blackstone_bricks": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/ghaf_door": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:48:16 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_shingle_stairs_from_blackstone_or_blackstone_shingles_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_blackstone_shingles": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_plate_stairs_from_blackstone_or_blackstone_plates_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_blackstone_plates": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_tuff_brick_stairs_from_tuff_or_mossy_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_or_mossy_tuff_bricks": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/saxaul_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/ghaf_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:48:16 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_slab_from_blackstone_or_mossy_cobbled_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_mossy_cobbled_blackstone": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "kattersstructures:ambient/witch_circle": {
+    "criteria": {
+      "witch_circle": "2025-04-27 20:02:47 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_blackstone_tiles_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "variantcraftingtables:recipes/misc/ns_ghaf_crafting_table": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:48:16 +0200"
+    },
+    "done": true
+  },
+  "charm:azalea_wood/recipes/azalea_chest_boat_with_vanilla_chest": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_tile_stairs_from_tuff_or_tuff_tiles_stonecutting": {
+    "criteria": {
+      "has_tuff_or_tuff_tiles": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_mushroom": "2025-04-27 20:29:31 +0200"
+    },
+    "done": false
+  },
+  "stoneworks:recipes/building_blocks/tuff_paver_wall_from_tuff_or_tuff_pavers_stonecutting": {
+    "criteria": {
+      "has_tuff_or_tuff_pavers": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "charm:recipe_improvements/recipes/gilded_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_shingle_stairs_from_tuff_or_tuff_shingles_stonecutting": {
+    "criteria": {
+      "has_tuff_or_tuff_shingles": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_tuff_brick_slab_from_tuff_or_mossy_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_or_mossy_tuff_bricks": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blackstone_pillar_trim": {
+    "criteria": {
+      "has_blackstone_pillar_trim": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_tile_slab_from_tuff_or_tuff_tiles_stonecutting": {
+    "criteria": {
+      "has_tuff_or_tuff_tiles": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "charm:ebony_wood/recipes/ebony_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200",
+      "has_the_recipe": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/ghaf_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_plate_slab_from_tuff_or_tuff_plates_stonecutting": {
+    "criteria": {
+      "has_tuff_or_tuff_plates": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-04-27 20:33:42 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/larch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/decorations/ghaf_fence": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:48:16 +0200"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_plate_wall_from_blackstone_or_blackstone_plates_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_blackstone_plates": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "charm:azalea_wood/recipes/azalea_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_tile_wall_from_tuff_or_tuff_tiles_stonecutting": {
+    "criteria": {
+      "has_tuff_or_tuff_tiles": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/palo_verde_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_tuff_slab_from_tuff_or_cobbled_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff_or_cobbled_tuff": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_plate_stairs_from_tuff_or_tuff_plates_stonecutting": {
+    "criteria": {
+      "has_tuff_or_tuff_plates": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/ghaf_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:48:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_wall": {
+    "criteria": {
+      "has_tuff": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_wall_from_blackstone_or_mossy_cobbled_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_mossy_cobbled_blackstone": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_tuff_wall_from_tuff_or_cobbled_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff_or_cobbled_tuff": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_tuff_tiles_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_pillar_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_plate_slab_from_blackstone_or_blackstone_plates_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_blackstone_plates": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "kattersstructures:village/village_ocean": {
+    "criteria": {
+      "village_ocean": "2025-04-27 19:55:09 +0200"
+    },
+    "done": true
+  },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_jungle": "2025-04-27 20:57:53 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_slab_from_tuff_or_mossy_cobbled_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff_or_mossy_cobbled_tuff": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_blackstone_wall_from_blackstone_or_cobbled_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_cobbled_blackstone": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/wisteria_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "kattersstructures:village/village_all": {
+    "criteria": {
+      "village_birch": "2025-04-27 21:09:24 +0200",
+      "village_ocean": "2025-04-27 19:55:09 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_tuff": {
+    "criteria": {
+      "has_tuff": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-27 20:03:02 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_pavers_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_paver_slab_from_tuff_or_tuff_pavers_stonecutting": {
+    "criteria": {
+      "has_tuff_or_tuff_pavers": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_paver_wall_from_blackstone_or_blackstone_pavers_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_blackstone_pavers": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/coconut_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_plate_wall_from_tuff_or_tuff_plates_stonecutting": {
+    "criteria": {
+      "has_tuff_or_tuff_plates": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "kattersstructures:village/village_birch": {
+    "criteria": {
+      "village_mesa": "2025-04-27 21:09:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-04-27 20:33:42 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/ghaf_wood": {
+    "criteria": {
+      "has_log": "2025-04-27 20:47:49 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/ghaf_slab": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:48:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-04-27 20:33:42 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "charm:sugar_block/recipes/sugar_block": {
+    "criteria": {
+      "has_sugar": "2025-04-27 20:03:10 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_tile_slab_from_blackstone_or_blackstone_tiles_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_blackstone_tiles": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_shingle_wall_from_blackstone_or_blackstone_shingles_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_blackstone_shingles": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_tuff_stairs_from_tuff_or_cobbled_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff_or_cobbled_tuff": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/ghaf_button": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:48:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_blackstone_stairs_from_blackstone_or_cobbled_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_cobbled_blackstone": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_stairs": {
+    "criteria": {
+      "has_tuff": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blackstone_corner_trim": {
+    "criteria": {
+      "has_blackstone_corner_trim": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_plates_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_shingles_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_pillar_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_pavers_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_shingle_wall_from_tuff_or_tuff_shingles_stonecutting": {
+    "criteria": {
+      "has_tuff_or_tuff_shingles": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/decorations/ghaf_sign": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:48:16 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/blackstone_bulb": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_tuff_brick_wall_from_tuff_or_mossy_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_or_mossy_tuff_bricks": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_shingle_slab_from_blackstone_or_blackstone_shingles_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_blackstone_shingles": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_paver_stairs_from_blackstone_or_blackstone_pavers_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_blackstone_pavers": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_tiles_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_paver_slab_from_blackstone_or_blackstone_pavers_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_blackstone_pavers": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-04-27 19:59:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-04-27 20:08:08 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/blackstone_spines": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_tiles_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_paver_stairs_from_tuff_or_tuff_pavers_stonecutting": {
+    "criteria": {
+      "has_tuff_or_tuff_pavers": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_wall_from_tuff_or_mossy_cobbled_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff_or_mossy_cobbled_tuff": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_slab": {
+    "criteria": {
+      "has_tuff": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/ghaf_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:48:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_plates_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/ghaf_planks": {
+    "criteria": {
+      "has_logs": "2025-04-27 20:47:49 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_shingles_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-27 19:59:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_shingle_slab_from_tuff_or_tuff_shingles_stonecutting": {
+    "criteria": {
+      "has_tuff_or_tuff_shingles": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_blackstone_brick_slab_from_blackstone_or_mossy_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_mossy_blackstone_bricks": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/sugi_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/cedar_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_tile_stairs_from_blackstone_or_blackstone_tiles_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_blackstone_tiles": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_blackstone_brick_wall_from_blackstone_or_mossy_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_mossy_blackstone_bricks": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/olive_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/joshua_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "charm:ebony_wood/recipes/ebony_chest_boat_with_vanilla_chest": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-27 20:03:02 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_stairs_from_blackstone_or_mossy_cobbled_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_mossy_cobbled_blackstone": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "kattersstructures:village/a_village": {
+    "criteria": {
+      "village_ocean": "2025-04-27 19:55:09 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/aspen_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 20:38:16 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_blackstone_slab_from_blackstone_or_cobbled_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_cobbled_blackstone": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_tile_wall_from_blackstone_or_blackstone_tiles_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_blackstone_tiles": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 20:15:46 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_stairs_from_tuff_or_mossy_cobbled_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff_or_mossy_cobbled_tuff": "2025-04-27 20:12:29 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/ghaf_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:48:16 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/blackstone_spines_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 20:15:46 +0200"
     },
     "done": true
   },
