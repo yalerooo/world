@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "08be49071537345f86ad3e7bd55f66bd"
+	name: "Patxatxa803#08be4907"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		11BEA03A82966C5B: 1
+	}
+	started: {
+		7CEC01561E744EFD: 1745248922566L
+		11BEA03A82966C5B: 1745248922566L
+		0000000000000001: 1745248922566L
+		51FE38DFB14D1D53: 1745248922566L
+	}
+	completed: {
+		7CEC01561E744EFD: 1745248922566L
+		11BEA03A82966C5B: 1745248922566L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

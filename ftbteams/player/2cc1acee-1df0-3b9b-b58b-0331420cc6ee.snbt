@@ -1,0 +1,15 @@
+{
+	id: "2cc1acee-1df0-3b9b-b58b-0331420cc6ee"
+	type: "player"
+	player_name: "Yalero"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Yalero"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF596A"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

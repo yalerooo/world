@@ -1,0 +1,17 @@
+{
+	id: "08be4907-1537-345f-86ad-3e7bd55f66bd"
+	type: "player"
+	player_name: "Patxatxa803"
+	ranks: {
+		08be4907-1537-345f-86ad-3e7bd55f66bd: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Patxatxa803"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFA359"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

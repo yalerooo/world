@@ -1,0 +1,17 @@
+{
+	id: "a1bfb453-52c3-3ed0-b109-71ef46a5541f"
+	type: "player"
+	player_name: "Xablep88"
+	ranks: {
+		a1bfb453-52c3-3ed0-b109-71ef46a5541f: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Xablep88"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59BF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

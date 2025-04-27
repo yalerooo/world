@@ -1,0 +1,22 @@
+{
+	id: "5b6e3915-92d8-4781-870c-d364a908d0ef"
+	type: "party"
+	owner: "42932bc1-5a82-3aba-bb62-9dbb0ae9bb45"
+	ranks: {
+		2cc1acee-1df0-3b9b-b58b-0331420cc6ee: "member"
+		42932bc1-5a82-3aba-bb62-9dbb0ae9bb45: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Los Capitanes"
+		"ftbteams:description": ""
+		"ftbteams:color": "#9B59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1745251789800L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"Gero\"],\"color\":\"yellow\"}" }
+		{ from: "42932bc1-5a82-3aba-bb62-9dbb0ae9bb45", date: 1745251803196L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"Yalero\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1745251807666L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"Yalero\"],\"color\":\"green\"}" }
+	]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "ba1fb3d2-cbd0-3420-aa9a-1ced27cd5853"
+	type: "player"
+	player_name: "Mr_Tikful"
+	ranks: {
+		ba1fb3d2-cbd0-3420-aa9a-1ced27cd5853: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Mr_Tikful"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59F0FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

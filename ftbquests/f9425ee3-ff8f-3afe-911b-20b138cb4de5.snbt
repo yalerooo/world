@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "f9425ee3ff8f3afe911b20b138cb4de5"
+	name: "Mikel#f9425ee3"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		11BEA03A82966C5B: 1
+	}
+	started: {
+		7CEC01561E744EFD: 1745353370959L
+		11BEA03A82966C5B: 1745353370959L
+		0000000000000001: 1745353370959L
+		51FE38DFB14D1D53: 1745353370959L
+	}
+	completed: {
+		7CEC01561E744EFD: 1745353370959L
+		11BEA03A82966C5B: 1745353370959L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

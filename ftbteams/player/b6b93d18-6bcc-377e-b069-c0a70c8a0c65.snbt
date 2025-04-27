@@ -1,0 +1,17 @@
+{
+	id: "b6b93d18-6bcc-377e-b069-c0a70c8a0c65"
+	type: "player"
+	player_name: "Maleta55"
+	ranks: {
+		b6b93d18-6bcc-377e-b069-c0a70c8a0c65: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Maleta55"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF7D"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

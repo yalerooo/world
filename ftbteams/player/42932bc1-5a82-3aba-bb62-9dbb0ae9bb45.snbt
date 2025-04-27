@@ -1,0 +1,15 @@
+{
+	id: "42932bc1-5a82-3aba-bb62-9dbb0ae9bb45"
+	type: "player"
+	player_name: "Gero"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Gero"
+		"ftbteams:description": ""
+		"ftbteams:color": "#9B59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

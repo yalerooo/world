@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "3450187ea12c3f69b730ce7bafd02e42"
+	name: "Arayette#3450187e"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		11BEA03A82966C5B: 1
+	}
+	started: {
+		7CEC01561E744EFD: 1745357281357L
+		11BEA03A82966C5B: 1745357281357L
+		0000000000000001: 1745357281357L
+		51FE38DFB14D1D53: 1745357281357L
+	}
+	completed: {
+		7CEC01561E744EFD: 1745357281357L
+		11BEA03A82966C5B: 1745357281357L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

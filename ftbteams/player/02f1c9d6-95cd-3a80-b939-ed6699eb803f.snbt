@@ -1,0 +1,17 @@
+{
+	id: "02f1c9d6-95cd-3a80-b939-ed6699eb803f"
+	type: "player"
+	player_name: "KarmaDarko"
+	ranks: {
+		02f1c9d6-95cd-3a80-b939-ed6699eb803f: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "KarmaDarko"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFEC"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

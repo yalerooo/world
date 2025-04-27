@@ -1,0 +1,17 @@
+{
+	id: "3450187e-a12c-3f69-b730-ce7bafd02e42"
+	type: "player"
+	player_name: "Arayette"
+	ranks: {
+		3450187e-a12c-3f69-b730-ce7bafd02e42: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Arayette"
+		"ftbteams:description": ""
+		"ftbteams:color": "#DFFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

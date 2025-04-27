@@ -1,0 +1,17 @@
+{
+	id: "7ab88240-b3a5-3179-9ead-43feeecaa777"
+	type: "player"
+	player_name: "Firestarfox"
+	ranks: {
+		7ab88240-b3a5-3179-9ead-43feeecaa777: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Firestarfox"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59E3FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

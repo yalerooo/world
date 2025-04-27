@@ -1,0 +1,17 @@
+{
+	id: "1e7ed744-9750-3b07-87ff-b76d0143d563"
+	type: "player"
+	player_name: "MrCactus36"
+	ranks: {
+		1e7ed744-9750-3b07-87ff-b76d0143d563: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "MrCactus36"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59A6FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

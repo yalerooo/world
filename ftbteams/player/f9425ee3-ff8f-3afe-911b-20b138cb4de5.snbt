@@ -1,0 +1,17 @@
+{
+	id: "f9425ee3-ff8f-3afe-911b-20b138cb4de5"
+	type: "player"
+	player_name: "Mikel"
+	ranks: {
+		f9425ee3-ff8f-3afe-911b-20b138cb4de5: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Mikel"
+		"ftbteams:description": ""
+		"ftbteams:color": "#BCFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
