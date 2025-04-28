@@ -132,6 +132,7 @@
       "minecraft:taiga": "2025-04-22 23:35:28 +0200",
       "minecraft:deep_ocean": "2025-04-27 19:59:16 +0200",
       "minecraft:lush_caves": "2025-04-27 16:14:47 +0200",
+      "natures_spirit:cypress_fields": "2025-04-28 23:20:44 +0200",
       "natures_spirit:sparse_tropical_woods": "2025-04-21 20:17:50 +0200",
       "minecraft:deep_cold_ocean": "2025-04-27 20:32:13 +0200",
       "minecraft:ice_spikes": "2025-04-24 00:19:27 +0200",
@@ -3738,6 +3739,7 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
+      "shepherds_pie": "2025-04-28 22:56:26 +0200",
       "pumpkin_soup": "2025-04-21 19:20:04 +0200"
     },
     "done": false
@@ -13105,7 +13107,8 @@
   },
   "repurposed_structures:outposts": {
     "criteria": {
-      "in_outpost_jungle": "2025-04-27 21:03:41 +0200"
+      "in_outpost_jungle": "2025-04-27 21:03:41 +0200",
+      "in_outpost_oak": "2025-04-28 23:18:38 +0200"
     },
     "done": false
   },
@@ -13118,6 +13121,180 @@
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-04-27 21:08:22 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_feast": {
+    "criteria": {
+      "shepherds_pie": "2025-04-28 22:49:14 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-04-28 22:56:26 +0200"
+    },
+    "done": true
+  },
+  "miku-plushie:recipes/decorations/miku_plush_santa_elf": {
+    "criteria": {
+      "has_red_wool": "2025-04-28 23:21:10 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/red_sofa": {
+    "criteria": {
+      "has_wool": "2025-04-28 23:21:10 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/red_curtain": {
+    "criteria": {
+      "has_wool": "2025-04-28 23:21:10 +0200"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/sleeping_bag_red": {
+    "criteria": {
+      "has_red_wool": "2025-04-28 23:21:10 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/red_cushion": {
+    "criteria": {
+      "has_red_cushion": "2025-04-28 23:21:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-04-28 23:21:10 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/red_sheet": {
+    "criteria": {
+      "has_red_sheet": "2025-04-28 23:21:10 +0200"
+    },
+    "done": true
+  },
+  "miku-plushie:recipes/decorations/miku_plush_xmas_tree": {
+    "criteria": {
+      "has_red_wool": "2025-04-28 23:21:10 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/red_lamp": {
+    "criteria": {
+      "has_wool": "2025-04-28 23:21:10 +0200"
+    },
+    "done": true
+  },
+  "miku-plushie:recipes/decorations/miku_plush_patata": {
+    "criteria": {
+      "has_red_wool": "2025-04-28 23:21:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-04-28 23:21:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-04-28 23:21:10 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/red_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-04-28 23:21:10 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/red_stool": {
+    "criteria": {
+      "has_wool": "2025-04-28 23:21:10 +0200"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/hammock_red": {
+    "criteria": {
+      "has_red_wool": "2025-04-28 23:21:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-04-28 23:21:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-04-28 23:21:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-04-28 23:21:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_chiseled_copper_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-04-28 23:21:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-04-28 23:21:35 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_bench": {
+    "criteria": {
+      "has_slab": "2025-04-28 23:21:49 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_flower_box": {
+    "criteria": {
+      "has_slab": "2025-04-28 23:21:49 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_shutter": {
+    "criteria": {
+      "has_slab": "2025-04-28 23:21:49 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/cypress_planks": {
+    "criteria": {
+      "has_logs": "2025-04-28 23:23:41 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/cypress_wood": {
+    "criteria": {
+      "has_log": "2025-04-28 23:23:41 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/olive_planks": {
+    "criteria": {
+      "has_logs": "2025-04-28 23:24:11 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/olive_wood": {
+    "criteria": {
+      "has_log": "2025-04-28 23:24:11 +0200"
     },
     "done": true
   },
