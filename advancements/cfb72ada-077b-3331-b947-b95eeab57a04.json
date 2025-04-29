@@ -129,6 +129,7 @@
       "natures_spirit:aspen_forest": "2025-04-26 17:16:58 +0200",
       "minecraft:forest": "2025-04-21 18:29:59 +0200",
       "minecraft:taiga": "2025-04-21 19:21:04 +0200",
+      "minecraft:deep_ocean": "2025-04-29 18:41:26 +0200",
       "minecraft:lush_caves": "2025-04-22 23:12:56 +0200",
       "natures_spirit:drylands": "2025-04-23 18:10:00 +0200",
       "minecraft:deep_cold_ocean": "2025-04-22 23:04:29 +0200",
@@ -532,6 +533,7 @@
   "natures_spirit:adventure/collect_all_flowers": {
     "criteria": {
       "lilac": "2025-04-21 17:19:38 +0200",
+      "rose_bush": "2025-04-29 18:45:40 +0200",
       "poppy": "2025-04-21 17:21:21 +0200",
       "anemone": "2025-04-21 18:38:49 +0200",
       "bluebell": "2025-04-23 16:52:05 +0200",
@@ -1825,6 +1827,7 @@
       "lush_desert": "2025-04-22 21:48:17 +0200",
       "redwood_forest": "2025-04-21 17:44:19 +0200",
       "aspen_glade": "2025-04-21 21:23:34 +0200",
+      "dune_beach": "2025-04-29 18:41:46 +0200",
       "lush_savanna": "2025-04-22 21:51:19 +0200",
       "seasonal_forest": "2025-04-22 14:55:36 +0200",
       "auroral_garden": "2025-04-23 16:08:36 +0200",
@@ -1837,6 +1840,7 @@
       "maple_woods": "2025-04-21 21:45:24 +0200",
       "pumpkin_patch": "2025-04-21 21:53:42 +0200",
       "grassland": "2025-04-26 17:01:22 +0200",
+      "prairie": "2025-04-29 18:49:39 +0200",
       "tundra": "2025-04-22 21:56:37 +0200",
       "gravel_beach": "2025-04-22 22:13:59 +0200",
       "glowing_grotto": "2025-04-26 16:59:55 +0200",
@@ -6191,7 +6195,8 @@
       "glow_berries": "2025-04-27 20:57:43 +0200",
       "potato": "2025-04-23 20:19:30 +0200",
       "wheat": "2025-04-25 17:38:50 +0200",
-      "tomato": "2025-04-22 10:42:08 +0200"
+      "tomato": "2025-04-22 10:42:08 +0200",
+      "kelp": "2025-04-29 19:32:43 +0200"
     },
     "done": false
   },
@@ -9407,7 +9412,8 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "minecraft:all_black": "2025-04-25 12:37:55 +0200"
+      "minecraft:all_black": "2025-04-25 12:37:55 +0200",
+      "minecraft:ragdoll": "2025-04-29 19:19:26 +0200"
     },
     "done": false
   },
@@ -10263,21 +10269,729 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/birch_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-04-27 21:08:11 +0200"
-    },
-    "done": true
-  },
   "minecraft:adventure/throw_trident": {
     "criteria": {
       "shot_trident": "2025-04-27 20:38:39 +0200"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-27 21:08:11 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_birch_wood": {
     "criteria": {
       "has_log": "2025-04-27 21:08:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_stairs_from_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_copper": "2025-04-29 18:05:35 +0200"
+    },
+    "done": true
+  },
+  "charm:recipe_improvements/recipes/green_dye": {
+    "criteria": {
+      "has_yellow_dye": "2025-04-29 19:14:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-29 19:01:16 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_cupboard": {
+    "criteria": {
+      "has_cherry_cupboard": "2025-04-29 20:35:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-29 19:01:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_blue_dye": "2025-04-29 19:14:34 +0200"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/chiseled_cherry_bookshelf": {
+    "criteria": {
+      "has_planks": "2025-04-29 20:35:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-04-29 18:47:27 +0200"
+    },
+    "done": true
+  },
+  "comforts:recipes/building_blocks/dye_hammock_red": {
+    "criteria": {
+      "has_needed_dye": "2025-04-29 19:14:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-04-29 20:35:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-04-29 20:46:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-04-29 19:14:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-04-29 19:14:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-29 19:01:16 +0200"
+    },
+    "done": true
+  },
+  "comforts:recipes/building_blocks/dye_sleeping_bag_yellow": {
+    "criteria": {
+      "has_needed_dye": "2025-04-29 19:14:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-04-29 18:45:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-29 19:00:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-04-29 19:14:25 +0200"
+    },
+    "done": true
+  },
+  "comforts:recipes/building_blocks/dye_sleeping_bag_red": {
+    "criteria": {
+      "has_needed_dye": "2025-04-29 19:14:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-29 19:01:16 +0200"
+    },
+    "done": true
+  },
+  "comforts:recipes/building_blocks/dye_sleeping_bag_blue": {
+    "criteria": {
+      "has_needed_dye": "2025-04-29 19:14:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-29 19:00:39 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_bowl": {
+    "criteria": {
+      "has_blue_bowl": "2025-04-29 19:14:34 +0200"
+    },
+    "done": true
+  },
+  "variantcraftingtables:recipes/misc/cherry_crafting_table": {
+    "criteria": {
+      "has_planks": "2025-04-29 20:35:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-29 20:44:38 +0200"
+    },
+    "done": true
+  },
+  "charm:totem_of_preserving/recipes/totem_of_preserving": {
+    "criteria": {
+      "has_totem": "2025-04-29 19:09:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper": {
+    "criteria": {
+      "has_weathered_copper": "2025-04-29 18:05:35 +0200"
+    },
+    "done": true
+  },
+  "kattersstructures:dungeon/sky_dungeon": {
+    "criteria": {
+      "sky_dungeon": "2025-04-29 18:25:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-04-29 18:47:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-04-29 19:14:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-04-29 19:14:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-04-29 19:14:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-04-29 18:47:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-04-29 19:14:30 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_cup": {
+    "criteria": {
+      "has_yellow_cup": "2025-04-29 19:14:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-04-29 19:14:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-29 19:01:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-04-29 20:35:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2025-04-29 19:14:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-29 20:35:52 +0200"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/cherry_barrel": {
+    "criteria": {
+      "has_planks": "2025-04-29 20:35:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-04-29 19:14:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2025-04-29 19:14:25 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_crockery_combo": {
+    "criteria": {
+      "has_yellow_crockery_combo": "2025-04-29 19:14:25 +0200"
+    },
+    "done": true
+  },
+  "fwaystones:recipe/void_totem": {
+    "criteria": {
+      "has_totem_of_undying": "2025-04-29 19:09:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-04-29 19:14:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_from_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_copper": "2025-04-29 18:05:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-04-29 19:14:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-29 19:01:16 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_fancy_bed": {
+    "criteria": {
+      "has_cherry_fancy_bed": "2025-04-29 20:35:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-29 20:44:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-29 19:00:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2025-04-29 19:14:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-04-29 20:35:52 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_plate": {
+    "criteria": {
+      "has_blue_plate": "2025-04-29 19:14:34 +0200"
+    },
+    "done": true
+  },
+  "charm:bundles_from_leather/recipes/bundle": {
+    "criteria": {
+      "has_string": "2025-04-29 19:04:28 +0200"
+    },
+    "done": true
+  },
+  "miku-plushie:recipes/food/canudinho": {
+    "criteria": {
+      "has_paper": "2025-04-29 18:54:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-29 19:00:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-29 19:01:16 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/yellow_dye_from_goldenrod": {
+    "criteria": {
+      "has_goldenrod": "2025-04-29 19:22:51 +0200"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/lodestone": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-04-29 19:01:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_chiseled_copper_from_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_copper": "2025-04-29 18:05:35 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_couch": {
+    "criteria": {
+      "has_cherry_couch": "2025-04-29 20:35:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-04-29 20:35:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_copper_from_honeycomb": {
+    "criteria": {
+      "has_weathered_copper": "2025-04-29 18:05:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-04-29 19:14:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-04-29 18:54:26 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_counter": {
+    "criteria": {
+      "has_cherry_counter": "2025-04-29 20:35:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2025-04-29 19:14:34 +0200"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_evoker": "2025-04-29 19:09:29 +0200"
+    },
+    "done": false
+  },
+  "handcrafted:recipes/misc/cherry_bench": {
+    "criteria": {
+      "has_cherry_bench": "2025-04-29 20:35:52 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cherry_chair": {
+    "criteria": {
+      "has_planks": "2025-04-29 20:35:52 +0200"
+    },
+    "done": true
+  },
+  "charm:kilns/recipes/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-29 19:01:16 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_side_table": {
+    "criteria": {
+      "has_cherry_side_table": "2025-04-29 20:35:52 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_bowl": {
+    "criteria": {
+      "has_yellow_bowl": "2025-04-29 19:14:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-29 20:35:52 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_corner_trim": {
+    "criteria": {
+      "has_cherry_corner_trim": "2025-04-29 20:35:52 +0200"
+    },
+    "done": true
+  },
+  "comforts:recipes/building_blocks/dye_hammock_blue": {
+    "criteria": {
+      "has_needed_dye": "2025-04-29 19:14:34 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_nightstand": {
+    "criteria": {
+      "has_cherry_nightstand": "2025-04-29 20:35:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-29 20:35:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-04-29 20:35:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-04-29 19:14:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_slab_from_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_copper": "2025-04-29 18:05:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-29 19:01:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-29 19:01:16 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/paper_lantern": {
+    "criteria": {
+      "has_paper": "2025-04-29 18:54:26 +0200"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/cherry_chest": {
+    "criteria": {
+      "has_planks": "2025-04-29 20:35:52 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_dining_bench": {
+    "criteria": {
+      "has_cherry_dining_bench": "2025-04-29 20:35:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-29 20:35:52 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_chair": {
+    "criteria": {
+      "has_cherry_chair": "2025-04-29 20:35:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_copper_grate_from_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_copper": "2025-04-29 18:05:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-29 19:00:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-04-29 19:14:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-04-29 20:47:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_copper_grate": {
+    "criteria": {
+      "has_weathered_copper": "2025-04-29 18:05:35 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cherry_shelf": {
+    "criteria": {
+      "has_planks": "2025-04-29 20:35:52 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_plate": {
+    "criteria": {
+      "has_yellow_plate": "2025-04-29 19:14:25 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_crockery_combo": {
+    "criteria": {
+      "has_blue_crockery_combo": "2025-04-29 19:14:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-29 19:01:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-29 19:01:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-04-29 19:14:30 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_desk": {
+    "criteria": {
+      "has_cherry_desk": "2025-04-29 20:35:52 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_shelf": {
+    "criteria": {
+      "has_cherry_shelf": "2025-04-29 20:35:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-29 18:54:26 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/paper_block": {
+    "criteria": {
+      "has_paper": "2025-04-29 18:54:26 +0200"
+    },
+    "done": true
+  },
+  "comforts:recipes/building_blocks/dye_hammock_yellow": {
+    "criteria": {
+      "has_needed_dye": "2025-04-29 19:14:25 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_cup": {
+    "criteria": {
+      "has_blue_cup": "2025-04-29 19:14:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-29 19:01:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-04-29 18:53:57 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_pillar_trim": {
+    "criteria": {
+      "has_cherry_pillar_trim": "2025-04-29 20:35:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-04-29 19:14:25 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_drawer": {
+    "criteria": {
+      "has_cherry_drawer": "2025-04-29 20:35:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-04-29 18:53:57 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cherry_table": {
+    "criteria": {
+      "has_planks": "2025-04-29 20:35:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/weathered_copper_bulb": {
+    "criteria": {
+      "has_weathered_copper": "2025-04-29 18:05:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-29 19:00:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-04-29 18:53:57 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_table": {
+    "criteria": {
+      "has_cherry_table": "2025-04-29 20:35:52 +0200"
     },
     "done": true
   },
