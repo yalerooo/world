@@ -2616,6 +2616,7 @@
       "cornflower": "2025-04-22 01:18:04 +0200",
       "allium": "2025-04-22 22:15:52 +0200",
       "blue_orchid": "2025-04-21 23:43:42 +0200",
+      "sunflower": "2025-04-29 01:21:27 +0200",
       "dandelion": "2025-04-22 22:13:45 +0200"
     },
     "done": false
@@ -11792,6 +11793,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-04-28 23:21:51 +0200"
+    },
+    "done": true
+  },
   "frostiful:recipes/combat/armor/fur_leggings": {
     "criteria": {
       "has_fur": "2025-04-28 23:22:18 +0200"
@@ -11801,12 +11808,6 @@
   "frostiful:recipes/combat/armor/fur_boots": {
     "criteria": {
       "has_fur": "2025-04-28 23:22:18 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
-    "criteria": {
-      "has_iron_ore": "2025-04-28 23:21:51 +0200"
     },
     "done": true
   },
@@ -11825,6 +11826,12 @@
   "frostiful:recipes/misc/fur_padding": {
     "criteria": {
       "has_fur": "2025-04-28 23:22:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-04-29 01:21:27 +0200"
     },
     "done": true
   },

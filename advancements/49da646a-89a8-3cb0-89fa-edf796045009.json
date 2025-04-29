@@ -5943,6 +5943,7 @@
     "criteria": {
       "glow_berries": "2025-04-22 00:11:19 +0200",
       "potato": "2025-04-27 21:13:19 +0200",
+      "sweet_berries": "2025-04-29 11:54:48 +0200",
       "wheat": "2025-04-22 00:29:14 +0200"
     },
     "done": false
@@ -11482,93 +11483,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_rice": {
-    "criteria": {
-      "has_any_ingredient": "2025-04-27 19:19:00 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2025-04-27 19:57:15 +0200"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/mushroom_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-04-27 19:19:00 +0200"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roast_chicken_block": {
-    "criteria": {
-      "has_cooked_chicken": "2025-04-27 20:55:34 +0200"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
-    "criteria": {
-      "beef_patty": "2025-04-27 19:02:35 +0200"
-    },
-    "done": true
-  },
-  "chipped:recipes/workbench/mason_table": {
-    "criteria": {
-      "has_item": "2025-04-27 20:43:56 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-04-27 21:08:22 +0200"
-    },
-    "done": true
-  },
   "another_furniture:recipes/oak_shutter": {
     "criteria": {
       "has_slab": "2025-04-27 18:34:04 +0200"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/hamburger": {
-    "criteria": {
-      "has_beef_patty": "2025-04-27 21:05:03 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather": {
-    "criteria": {
-      "has_rabbit_hide": "2025-04-27 19:02:26 +0200"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/tomato_crate": {
-    "criteria": {
-      "has_tomato": "2025-04-27 21:06:55 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2025-04-27 21:08:22 +0200"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/beef_patty": {
-    "criteria": {
-      "beef_patty": "2025-04-27 19:02:35 +0200"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_ham": {
-    "criteria": {
-      "ham": "2025-04-27 19:02:25 +0200"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
-    "criteria": {
-      "cooked_mutton_chops": "2025-04-27 19:02:34 +0200"
     },
     "done": true
   },
@@ -11578,15 +11495,33 @@
     },
     "done": true
   },
+  "another_furniture:recipes/oak_flower_box": {
+    "criteria": {
+      "has_slab": "2025-04-27 18:34:04 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-04-27 19:02:25 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/smoked_ham": {
     "criteria": {
       "has_ham": "2025-04-27 19:02:25 +0200"
     },
     "done": true
   },
-  "another_furniture:recipes/oak_flower_box": {
+  "minecraft:recipes/misc/leather": {
     "criteria": {
-      "has_slab": "2025-04-27 18:34:04 +0200"
+      "has_rabbit_hide": "2025-04-27 19:02:26 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-04-27 19:02:34 +0200"
     },
     "done": true
   },
@@ -11596,15 +11531,51 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/honey_cookie": {
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
     "criteria": {
-      "has_honey_bottle": "2025-04-27 19:20:54 +0200"
+      "cooked_mutton_chops": "2025-04-27 19:02:34 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
     "criteria": {
-      "has_log": "2025-04-27 21:08:22 +0200"
+      "beef_patty": "2025-04-27 19:02:35 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty": {
+    "criteria": {
+      "beef_patty": "2025-04-27 19:02:35 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2025-04-27 19:02:35 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-27 19:19:00 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-27 19:19:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-04-27 19:19:01 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-04-27 19:20:54 +0200"
     },
     "done": true
   },
@@ -11620,15 +11591,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+  "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-04-27 19:57:15 +0200"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
-      "cooked_mutton_chops": "2025-04-27 19:02:34 +0200"
+      "has_smooth_stone": "2025-04-27 19:57:15 +0200"
     },
     "done": true
   },
@@ -11644,15 +11615,45 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-04-27 20:16:18 +0200"
+    },
+    "done": true
+  },
+  "chipped:recipes/workbench/mason_table": {
+    "criteria": {
+      "has_item": "2025-04-27 20:43:56 +0200"
+    },
+    "done": true
+  },
   "chipped:recipes/misc/chisel": {
     "criteria": {
       "has_chisel": "2025-04-27 20:43:56 +0200"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+  "farmersdelight:recipes/food/roast_chicken_block": {
     "criteria": {
-      "beef_patty": "2025-04-27 19:02:35 +0200"
+      "has_cooked_chicken": "2025-04-27 20:55:34 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-04-27 20:55:34 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/hamburger": {
+    "criteria": {
+      "has_beef_patty": "2025-04-27 21:05:03 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-04-27 21:06:55 +0200"
     },
     "done": true
   },
@@ -11668,21 +11669,21 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/rice_bag": {
+  "minecraft:recipes/decorations/birch_hanging_sign": {
     "criteria": {
-      "has_rice": "2025-04-27 20:16:18 +0200"
+      "has_stripped_logs": "2025-04-27 21:08:22 +0200"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/chicken_sandwich": {
+  "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
-      "has_cooked_chicken": "2025-04-27 20:55:34 +0200"
+      "has_logs": "2025-04-27 21:08:22 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp": {
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
     "criteria": {
-      "has_dried_kelp_block": "2025-04-27 19:19:01 +0200"
+      "has_log": "2025-04-27 21:08:22 +0200"
     },
     "done": true
   },
