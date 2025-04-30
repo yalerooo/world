@@ -3315,12 +3315,6 @@
     },
     "done": true
   },
-  "frostiful:adventure/step_on_sun_lichen": {
-    "criteria": {
-      "step_on_sun_lichen": "2025-04-21 18:28:14 +0200"
-    },
-    "done": true
-  },
   "lootr:10loot": {
     "criteria": {
       "opened_10": "2025-04-21 18:28:26 +0200"
@@ -3414,18 +3408,6 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-04-21 18:28:30 +0200"
-    },
-    "done": true
-  },
-  "frostiful:adventure/root": {
-    "criteria": {
-      "player_is_cold": "2025-04-21 18:28:39 +0200"
-    },
-    "done": true
-  },
-  "frostiful:adventure/warm_by_light": {
-    "criteria": {
-      "place_torch_while_cold": "2025-04-21 18:28:58 +0200"
     },
     "done": true
   },
@@ -4159,36 +4141,6 @@
   "charm:animal_damage_immunity/negated_animal_damage": {
     "criteria": {
       "negated_animal_damage": "2025-04-21 20:11:13 +0200"
-    },
-    "done": true
-  },
-  "frostiful:recipes/combat/armor/fur_boots": {
-    "criteria": {
-      "has_fur": "2025-04-21 20:12:57 +0200"
-    },
-    "done": true
-  },
-  "frostiful:recipes/combat/armor/fur_chestplate": {
-    "criteria": {
-      "has_fur": "2025-04-21 20:12:57 +0200"
-    },
-    "done": true
-  },
-  "frostiful:recipes/combat/armor/fur_leggings": {
-    "criteria": {
-      "has_fur": "2025-04-21 20:12:57 +0200"
-    },
-    "done": true
-  },
-  "frostiful:recipes/combat/armor/fur_helmet": {
-    "criteria": {
-      "has_fur": "2025-04-21 20:12:57 +0200"
-    },
-    "done": true
-  },
-  "frostiful:recipes/misc/fur_padding": {
-    "criteria": {
-      "has_fur": "2025-04-21 20:12:57 +0200"
     },
     "done": true
   },
@@ -6856,12 +6808,6 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2025-04-21 23:48:29 +0200"
-    },
-    "done": true
-  },
-  "frostiful:recipes/misc/ice_skate_upgrade_template": {
-    "criteria": {
-      "has_ice_skate_upgrade_template": "2025-04-22 00:00:07 +0200"
     },
     "done": true
   },
@@ -9886,24 +9832,6 @@
     },
     "done": true
   },
-  "frostiful:recipes/combat/armor/ice_skates": {
-    "criteria": {
-      "has_fur_boots": "2025-04-22 23:10:35 +0200"
-    },
-    "done": true
-  },
-  "frostiful:adventure/craft_any_fur_armor": {
-    "criteria": {
-      "has_any_fur_armor_piece": "2025-04-22 23:10:35 +0200"
-    },
-    "done": true
-  },
-  "frostiful:recipes/combat/armor/fur_padded_chainmail_boots": {
-    "criteria": {
-      "has_fur_armor": "2025-04-22 23:10:35 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-04-22 23:18:29 +0200"
@@ -10889,18 +10817,6 @@
     },
     "done": true
   },
-  "frostiful:recipes/building_block/brittle_ice": {
-    "criteria": {
-      "has_icicle": "2025-04-23 19:21:31 +0200"
-    },
-    "done": true
-  },
-  "frostiful:recipes/combat/weapon/glacial_arrow": {
-    "criteria": {
-      "has_icicle": "2025-04-23 19:21:31 +0200"
-    },
-    "done": true
-  },
   "chipped:recipes/workbench/mason_table": {
     "criteria": {
       "has_item": "2025-04-23 20:02:22 +0200"
@@ -11369,24 +11285,6 @@
     },
     "done": true
   },
-  "frostiful:adventure/find_chillager_outpost": {
-    "criteria": {
-      "find_outpost": "2025-04-24 00:27:19 +0200"
-    },
-    "done": true
-  },
-  "frostiful:recipes/misc/snowflake_banner_pattern": {
-    "criteria": {
-      "has_packed_snowball": "2025-04-24 00:28:00 +0200"
-    },
-    "done": true
-  },
-  "frostiful:recipes/building_block/packed_snow_block_from_snowballs": {
-    "criteria": {
-      "has_packed_snowball": "2025-04-24 00:28:00 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-04-24 00:31:41 +0200"
@@ -11426,12 +11324,6 @@
   "farmersdelight:recipes/food/rice": {
     "criteria": {
       "has_rice_panicle": "2025-04-24 01:18:21 +0200"
-    },
-    "done": true
-  },
-  "graves:tick": {
-    "criteria": {
-      "requirements": "2025-04-25 00:23:32 +0200"
     },
     "done": true
   },
@@ -12701,12 +12593,6 @@
     },
     "done": true
   },
-  "frostiful:recipes/combat/armor/fur_padded_chainmail_chestplate": {
-    "criteria": {
-      "has_fur_armor": "2025-04-27 16:45:49 +0200"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/cake_from_milk_bottle": {
     "criteria": {
       "has_milk_bottle": "2025-04-27 19:26:59 +0200"
@@ -13558,6 +13444,395 @@
   "storagedelight:recipes/decorations/warped_single_door_cabinet": {
     "criteria": {
       "has_warped_trapdoor": "2025-04-29 15:56:11 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_galley": {
+    "criteria": {
+      "in_water": "2025-04-30 13:47:16 +0200"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/building_blocks/netherite_iron_block": {
+    "criteria": {
+      "has_the_recipe": "2025-04-30 13:18:30 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_cog": {
+    "criteria": {
+      "in_water": "2025-04-30 13:47:16 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_cog": {
+    "criteria": {
+      "in_water": "2025-04-30 13:47:16 +0200"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/netherite_gold_block": {
+    "criteria": {
+      "has_ingredients": "2025-04-30 13:18:30 +0200"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2025-04-30 13:18:30 +0200"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2025-04-30 13:18:30 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_cog": {
+    "criteria": {
+      "in_water": "2025-04-30 13:47:16 +0200"
+    },
+    "done": true
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2025-04-30 13:52:01 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_brigg": {
+    "criteria": {
+      "in_water": "2025-04-30 13:47:16 +0200"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2025-04-30 13:18:30 +0200",
+      "has_compass": "2025-04-30 13:18:30 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_galley": {
+    "criteria": {
+      "in_water": "2025-04-30 13:47:16 +0200"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2025-04-30 13:18:30 +0200"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/building_blocks/netherite_diamond_block": {
+    "criteria": {
+      "has_the_recipe": "2025-04-30 13:18:30 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-30 13:47:16 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_brigg": {
+    "criteria": {
+      "in_water": "2025-04-30 13:47:16 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_brigg": {
+    "criteria": {
+      "in_water": "2025-04-30 13:47:16 +0200"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2025-04-30 13:18:30 +0200"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_compass": "2025-04-30 13:18:30 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_galley": {
+    "criteria": {
+      "in_water": "2025-04-30 13:47:16 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_cog": {
+    "criteria": {
+      "in_water": "2025-04-30 13:47:16 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-30 13:47:16 +0200"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/building_blocks/netherite_gold_block": {
+    "criteria": {
+      "has_the_recipe": "2025-04-30 13:18:30 +0200"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/netherite_diamond_block": {
+    "criteria": {
+      "has_ingredients": "2025-04-30 13:18:30 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/misc/sail": {
+    "criteria": {
+      "has_the_recipe": "2025-04-30 13:40:37 +0200"
+    },
+    "done": true
+  },
+  "utility_belt:recipes/tools/utility_belt": {
+    "criteria": {
+      "has_string": "2025-04-30 13:21:19 +0200"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2025-04-30 13:18:30 +0200",
+      "has_recipe": "2025-04-30 13:18:30 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_galley": {
+    "criteria": {
+      "in_water": "2025-04-30 13:47:16 +0200"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_sapling": "2025-04-30 13:18:30 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_galley": {
+    "criteria": {
+      "in_water": "2025-04-30 13:47:16 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_galley": {
+    "criteria": {
+      "in_water": "2025-04-30 13:47:16 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_brigg": {
+    "criteria": {
+      "in_water": "2025-04-30 13:47:16 +0200"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2025-04-30 13:18:30 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-30 13:47:16 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_brigg": {
+    "criteria": {
+      "has_the_recipe": "2025-04-30 13:40:44 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_cog": {
+    "criteria": {
+      "in_water": "2025-04-30 13:47:16 +0200"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/building_blocks/netherite_emerald_block": {
+    "criteria": {
+      "has_the_recipe": "2025-04-30 13:18:30 +0200"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2025-04-30 13:18:30 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/combat/cannon": {
+    "criteria": {
+      "has_ship": "2025-04-30 13:18:30 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_cog": {
+    "criteria": {
+      "in_water": "2025-04-30 13:47:16 +0200"
+    },
+    "done": true
+  },
+  "universal_shops:recipe/tradeshop_group/trade_block": {
+    "criteria": {
+      "item_required2": "2025-04-30 13:58:48 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_galley": {
+    "criteria": {
+      "in_water": "2025-04-30 13:47:16 +0200"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_recipe": "2025-04-30 13:18:30 +0200",
+      "has_cobweb": "2025-04-30 13:18:30 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_brigg": {
+    "criteria": {
+      "in_water": "2025-04-30 13:47:16 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_galley": {
+    "criteria": {
+      "in_water": "2025-04-30 13:47:16 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_cog": {
+    "criteria": {
+      "in_water": "2025-04-30 13:47:16 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-30 13:47:16 +0200"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2025-04-30 13:18:30 +0200"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/netherite_iron_block": {
+    "criteria": {
+      "has_ingredients": "2025-04-30 13:18:30 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/cherry_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-30 13:47:16 +0200"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_recipe": "2025-04-30 13:18:30 +0200",
+      "has_cracked_stone_bricks": "2025-04-30 13:18:30 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-30 13:47:16 +0200"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/netherite_ingots": {
+    "criteria": {
+      "has_ingredients": "2025-04-30 13:18:30 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-30 13:47:16 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_brigg": {
+    "criteria": {
+      "in_water": "2025-04-30 13:47:16 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-30 13:47:16 +0200"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2025-04-30 13:18:30 +0200",
+      "inv_changed-diamond": "2025-04-30 13:18:30 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/cherry_galley": {
+    "criteria": {
+      "in_water": "2025-04-30 13:47:16 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/cherry_brigg": {
+    "criteria": {
+      "in_water": "2025-04-30 13:47:16 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_brigg": {
+    "criteria": {
+      "in_water": "2025-04-30 13:47:16 +0200"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/netherite_emerald_block": {
+    "criteria": {
+      "has_ingredients": "2025-04-30 13:18:30 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-30 13:47:16 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_cog": {
+    "criteria": {
+      "in_water": "2025-04-30 13:47:16 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/cherry_cog": {
+    "criteria": {
+      "in_water": "2025-04-30 13:47:16 +0200"
     },
     "done": true
   },
