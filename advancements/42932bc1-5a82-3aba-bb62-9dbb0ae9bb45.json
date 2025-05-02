@@ -11648,34 +11648,9 @@
     },
     "done": true
   },
-  "advancednetherite:recipes/netherite_gold_block": {
-    "criteria": {
-      "has_ingredients": "2025-04-30 13:14:36 +0200"
-    },
-    "done": true
-  },
-  "toms_storage:unlock_glowstone": {
-    "criteria": {
-      "inv_changed-glowstone": "2025-04-30 13:14:36 +0200"
-    },
-    "done": true
-  },
   "advancednetherite:recipes/misc/netherite_diamond_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2025-04-30 13:14:36 +0200"
-    },
-    "done": true
-  },
-  "naturescompass:natures_compass": {
-    "criteria": {
-      "has_recipe": "2025-04-30 13:14:36 +0200",
-      "has_compass": "2025-04-30 13:14:36 +0200"
-    },
-    "done": true
-  },
-  "toms_storage:unlock_netherite": {
-    "criteria": {
-      "inv_changed-netherite": "2025-04-30 13:14:36 +0200"
     },
     "done": true
   },
@@ -11685,40 +11660,9 @@
     },
     "done": true
   },
-  "toms_storage:unlock_chest": {
-    "criteria": {
-      "inv_changed-chest": "2025-04-30 13:14:36 +0200"
-    },
-    "done": true
-  },
-  "explorerscompass:explorers_compass": {
-    "criteria": {
-      "has_compass": "2025-04-30 13:14:36 +0200"
-    },
-    "done": true
-  },
   "advancednetherite:recipes/building_blocks/netherite_gold_block": {
     "criteria": {
       "has_the_recipe": "2025-04-30 13:14:36 +0200"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/netherite_diamond_block": {
-    "criteria": {
-      "has_ingredients": "2025-04-30 13:14:36 +0200"
-    },
-    "done": true
-  },
-  "naturescompass:natures_compass_log": {
-    "criteria": {
-      "has_log": "2025-04-30 13:14:36 +0200",
-      "has_recipe": "2025-04-30 13:14:36 +0200"
-    },
-    "done": true
-  },
-  "naturescompass:natures_compass_sapling": {
-    "criteria": {
-      "has_sapling": "2025-04-30 13:14:36 +0200"
     },
     "done": true
   },
@@ -11746,46 +11690,9 @@
     },
     "done": true
   },
-  "explorerscompass:explorers_compass_cobweb": {
-    "criteria": {
-      "has_cobweb": "2025-04-30 13:14:36 +0200"
-    },
-    "done": true
-  },
   "advancednetherite:recipes/misc/netherite_emerald_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2025-04-30 13:14:36 +0200"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/netherite_iron_block": {
-    "criteria": {
-      "has_ingredients": "2025-04-30 13:14:36 +0200"
-    },
-    "done": true
-  },
-  "explorerscompass:explorers_compass_cracked_stone_bricks": {
-    "criteria": {
-      "has_cracked_stone_bricks": "2025-04-30 13:14:36 +0200"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/netherite_ingots": {
-    "criteria": {
-      "has_ingredients": "2025-04-30 13:14:36 +0200"
-    },
-    "done": true
-  },
-  "toms_storage:unlock_dia_pearl": {
-    "criteria": {
-      "inv_changed-ender_pearl": "2025-04-30 13:14:36 +0200",
-      "inv_changed-diamond": "2025-04-30 13:14:36 +0200"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/netherite_emerald_block": {
-    "criteria": {
-      "has_ingredients": "2025-04-30 13:14:36 +0200"
     },
     "done": true
   },
@@ -11801,9 +11708,9 @@
     },
     "done": true
   },
-  "immersive_aircraft:misc/aircraftery": {
+  "universal_shops:recipe/tradeshop_group/trade_block": {
     "criteria": {
-      "has_item": "2025-04-30 13:17:35 +0200"
+      "item_required2": "2025-04-30 14:55:06 +0200"
     },
     "done": true
   },
@@ -11933,12 +11840,6 @@
     },
     "done": true
   },
-  "universal_shops:recipe/tradeshop_group/trade_block": {
-    "criteria": {
-      "item_required2": "2025-04-30 14:55:06 +0200"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/oak_galley": {
     "criteria": {
       "in_water": "2025-04-30 15:01:45 +0200"
@@ -12032,6 +11933,48 @@
   "smallships:recipes/transportation/cherry_cog": {
     "criteria": {
       "in_water": "2025-04-30 15:01:45 +0200"
+    },
+    "done": true
+  },
+  "utility_belt:recipes/tools/utility_belt": {
+    "criteria": {
+      "has_string": "2025-05-02 17:12:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "variantsandventures:gelid": "2025-05-02 17:17:19 +0200"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "variantsandventures:gelid": "2025-05-02 17:17:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-05-02 17:19:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-05-02 17:19:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-05-02 17:19:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-05-02 17:19:37 +0200"
     },
     "done": true
   },
