@@ -1418,6 +1418,7 @@
       "grassland": "2025-04-29 18:42:47 +0200",
       "tundra": "2025-04-27 19:33:22 +0200",
       "gravel_beach": "2025-04-22 18:34:27 +0200",
+      "glowing_grotto": "2025-05-02 12:33:40 +0200",
       "field": "2025-04-21 19:32:22 +0200",
       "orchard": "2025-04-23 21:58:01 +0200",
       "overgrown_greens": "2025-04-22 18:46:01 +0200",
@@ -11646,6 +11647,12 @@
     },
     "done": true
   },
+  "universal_shops:recipe/tradeshop_group/trade_block": {
+    "criteria": {
+      "item_required2": "2025-04-30 17:55:07 +0200"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/bamboo_galley": {
     "criteria": {
       "in_water": "2025-04-30 18:22:49 +0200"
@@ -11682,12 +11689,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/apple_pie_from_slices": {
-    "criteria": {
-      "has_apple_pie_slice": "2025-04-30 19:57:33 +0200"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/oak_drakkar": {
     "criteria": {
       "in_water": "2025-04-30 18:22:49 +0200"
@@ -11715,18 +11716,6 @@
   "smallships:recipes/transportation/birch_cog": {
     "criteria": {
       "in_water": "2025-04-30 18:22:49 +0200"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/apple_pie": {
-    "criteria": {
-      "has_pie_crust": "2025-04-30 19:57:08 +0200"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/chocolate_pie": {
-    "criteria": {
-      "has_pie_crust": "2025-04-30 19:57:08 +0200"
     },
     "done": true
   },
@@ -11787,12 +11776,6 @@
   "smallships:recipes/transportation/oak_cog": {
     "criteria": {
       "in_water": "2025-04-30 18:22:49 +0200"
-    },
-    "done": true
-  },
-  "universal_shops:recipe/tradeshop_group/trade_block": {
-    "criteria": {
-      "item_required2": "2025-04-30 17:55:07 +0200"
     },
     "done": true
   },
@@ -11886,15 +11869,39 @@
     },
     "done": true
   },
+  "smallships:recipes/transportation/cherry_cog": {
+    "criteria": {
+      "in_water": "2025-04-30 18:22:49 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/apple_pie": {
+    "criteria": {
+      "has_pie_crust": "2025-04-30 19:57:08 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chocolate_pie": {
+    "criteria": {
+      "has_pie_crust": "2025-04-30 19:57:08 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/sweet_berry_cheesecake": {
     "criteria": {
       "has_pie_crust": "2025-04-30 19:57:08 +0200"
     },
     "done": true
   },
-  "smallships:recipes/transportation/cherry_cog": {
+  "farmersdelight:recipes/food/apple_pie_from_slices": {
     "criteria": {
-      "in_water": "2025-04-30 18:22:49 +0200"
+      "has_apple_pie_slice": "2025-04-30 19:57:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-05-02 12:43:11 +0200"
     },
     "done": true
   },

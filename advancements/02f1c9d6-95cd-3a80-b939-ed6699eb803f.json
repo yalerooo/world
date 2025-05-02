@@ -143,6 +143,7 @@
       "minecraft:river": "2025-04-22 00:19:45 +0200",
       "minecraft:lukewarm_ocean": "2025-04-22 13:31:45 +0200",
       "minecraft:stony_shore": "2025-04-22 14:04:17 +0200",
+      "minecraft:snowy_plains": "2025-05-02 12:36:23 +0200",
       "minecraft:dripstone_caves": "2025-04-22 13:14:11 +0200",
       "minecraft:snowy_taiga": "2025-04-30 13:36:04 +0200",
       "natures_spirit:oak_savanna": "2025-04-22 13:22:57 +0200",
@@ -157,12 +158,16 @@
       "minecraft:forest": "2025-04-21 23:24:21 +0200",
       "natures_spirit:drylands": "2025-04-26 21:32:07 +0200",
       "minecraft:deep_cold_ocean": "2025-04-26 17:13:16 +0200",
+      "minecraft:ice_spikes": "2025-05-02 12:59:28 +0200",
       "natures_spirit:wooded_drylands": "2025-04-26 21:32:40 +0200",
+      "minecraft:frozen_ocean": "2025-05-02 12:36:06 +0200",
       "minecraft:desert": "2025-04-26 21:31:08 +0200",
+      "natures_spirit:tundra": "2025-05-02 12:37:09 +0200",
       "minecraft:windswept_forest": "2025-04-27 15:37:06 +0200",
       "minecraft:jungle": "2025-04-27 15:28:49 +0200",
       "minecraft:ocean": "2025-04-22 13:29:46 +0200",
       "minecraft:old_growth_spruce_taiga": "2025-04-28 23:13:36 +0200",
+      "minecraft:snowy_beach": "2025-05-02 12:36:11 +0200",
       "natures_spirit:coniferous_covert": "2025-04-22 23:07:14 +0200",
       "minecraft:warm_ocean": "2025-04-27 01:54:33 +0200",
       "minecraft:flower_forest": "2025-04-22 22:22:06 +0200",
@@ -534,11 +539,13 @@
       "pasture": "2025-04-22 22:53:32 +0200",
       "volcanic_plains": "2025-04-22 13:36:11 +0200",
       "wetland": "2025-04-26 17:18:52 +0200",
+      "cold_desert": "2025-05-02 12:36:37 +0200",
       "lavender_field": "2025-04-21 23:41:48 +0200",
       "old_growth_woodland": "2025-04-22 13:36:39 +0200",
       "maple_woods": "2025-04-22 00:45:54 +0200",
       "pumpkin_patch": "2025-04-22 00:18:56 +0200",
       "prairie": "2025-04-22 22:42:19 +0200",
+      "snowy_fir_clearing": "2025-05-02 12:36:35 +0200",
       "gravel_beach": "2025-04-26 17:18:27 +0200",
       "field": "2025-04-22 00:53:24 +0200",
       "orchard": "2025-04-21 23:24:23 +0200",
@@ -2613,6 +2620,7 @@
       "cornflower": "2025-04-22 01:18:04 +0200",
       "allium": "2025-04-22 22:15:52 +0200",
       "blue_orchid": "2025-04-21 23:43:42 +0200",
+      "red_heather": "2025-05-02 12:47:57 +0200",
       "sunflower": "2025-04-29 01:21:27 +0200",
       "dandelion": "2025-04-22 22:13:45 +0200"
     },
@@ -3103,6 +3111,7 @@
   },
   "adorabuild_structures:tireless_legs": {
     "criteria": {
+      "frozen_house_medium_1": "2025-05-02 12:43:40 +0200",
       "sand_house_medium_2": "2025-04-27 01:59:21 +0200",
       "birch_tree_1": "2025-04-27 15:26:23 +0200",
       "birch_house_small_2": "2025-04-22 13:07:19 +0200",
@@ -11784,34 +11793,9 @@
     },
     "done": true
   },
-  "advancednetherite:recipes/netherite_gold_block": {
-    "criteria": {
-      "has_ingredients": "2025-04-30 13:18:50 +0200"
-    },
-    "done": true
-  },
-  "toms_storage:unlock_glowstone": {
-    "criteria": {
-      "inv_changed-glowstone": "2025-04-30 13:18:50 +0200"
-    },
-    "done": true
-  },
   "advancednetherite:recipes/misc/netherite_diamond_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2025-04-30 13:18:50 +0200"
-    },
-    "done": true
-  },
-  "naturescompass:natures_compass": {
-    "criteria": {
-      "has_recipe": "2025-04-30 13:18:50 +0200",
-      "has_compass": "2025-04-30 13:18:50 +0200"
-    },
-    "done": true
-  },
-  "toms_storage:unlock_netherite": {
-    "criteria": {
-      "inv_changed-netherite": "2025-04-30 13:18:50 +0200"
     },
     "done": true
   },
@@ -11821,40 +11805,9 @@
     },
     "done": true
   },
-  "toms_storage:unlock_chest": {
-    "criteria": {
-      "inv_changed-chest": "2025-04-30 13:18:50 +0200"
-    },
-    "done": true
-  },
-  "explorerscompass:explorers_compass": {
-    "criteria": {
-      "has_compass": "2025-04-30 13:18:50 +0200"
-    },
-    "done": true
-  },
   "advancednetherite:recipes/building_blocks/netherite_gold_block": {
     "criteria": {
       "has_the_recipe": "2025-04-30 13:18:50 +0200"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/netherite_diamond_block": {
-    "criteria": {
-      "has_ingredients": "2025-04-30 13:18:50 +0200"
-    },
-    "done": true
-  },
-  "naturescompass:natures_compass_log": {
-    "criteria": {
-      "has_log": "2025-04-30 13:18:50 +0200",
-      "has_recipe": "2025-04-30 13:18:50 +0200"
-    },
-    "done": true
-  },
-  "naturescompass:natures_compass_sapling": {
-    "criteria": {
-      "has_sapling": "2025-04-30 13:18:50 +0200"
     },
     "done": true
   },
@@ -11882,48 +11835,9 @@
     },
     "done": true
   },
-  "explorerscompass:explorers_compass_cobweb": {
-    "criteria": {
-      "has_recipe": "2025-04-30 13:18:50 +0200",
-      "has_cobweb": "2025-04-30 13:18:50 +0200"
-    },
-    "done": true
-  },
   "advancednetherite:recipes/misc/netherite_emerald_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2025-04-30 13:18:50 +0200"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/netherite_iron_block": {
-    "criteria": {
-      "has_ingredients": "2025-04-30 13:18:50 +0200"
-    },
-    "done": true
-  },
-  "explorerscompass:explorers_compass_cracked_stone_bricks": {
-    "criteria": {
-      "has_recipe": "2025-04-30 13:18:50 +0200",
-      "has_cracked_stone_bricks": "2025-04-30 13:18:50 +0200"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/netherite_ingots": {
-    "criteria": {
-      "has_ingredients": "2025-04-30 13:18:50 +0200"
-    },
-    "done": true
-  },
-  "toms_storage:unlock_dia_pearl": {
-    "criteria": {
-      "inv_changed-ender_pearl": "2025-04-30 13:18:50 +0200",
-      "inv_changed-diamond": "2025-04-30 13:18:50 +0200"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/netherite_emerald_block": {
-    "criteria": {
-      "has_ingredients": "2025-04-30 13:18:50 +0200"
     },
     "done": true
   },
@@ -11936,6 +11850,42 @@
   "universal_shops:recipe/tradeshop_group/trade_block": {
     "criteria": {
       "item_required": "2025-04-30 13:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-04-30 13:37:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2025-04-30 13:37:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-04-30 13:37:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2025-04-30 13:37:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-04-30 13:37:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2025-04-30 13:37:25 +0200"
     },
     "done": true
   },
@@ -11957,21 +11907,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
-    "criteria": {
-      "has_mud_bricks": "2025-04-30 13:37:25 +0200"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/jungle_cog": {
     "criteria": {
       "in_water": "2025-04-30 13:38:12 +0200"
-    },
-    "done": true
-  },
-  "immersive_aircraft:misc/aircraftery": {
-    "criteria": {
-      "has_item": "2025-04-30 13:38:47 +0200"
     },
     "done": true
   },
@@ -12023,12 +11961,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mud_brick_stairs": {
-    "criteria": {
-      "has_mud_bricks": "2025-04-30 13:37:25 +0200"
-    },
-    "done": true
-  },
   "smallships:recipes/misc/sail": {
     "criteria": {
       "in_water": "2025-04-30 13:38:12 +0200"
@@ -12038,12 +11970,6 @@
   "smallships:recipes/transportation/acacia_galley": {
     "criteria": {
       "in_water": "2025-04-30 13:38:12 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
-    "criteria": {
-      "has_mud_bricks": "2025-04-30 13:37:25 +0200"
     },
     "done": true
   },
@@ -12083,18 +12009,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mud_brick_wall": {
-    "criteria": {
-      "has_mud_bricks": "2025-04-30 13:37:25 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
-    "criteria": {
-      "has_mud_bricks": "2025-04-30 13:37:25 +0200"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/oak_cog": {
     "criteria": {
       "in_water": "2025-04-30 13:38:12 +0200"
@@ -12128,12 +12042,6 @@
   "smallships:recipes/transportation/birch_drakkar": {
     "criteria": {
       "in_water": "2025-04-30 13:38:12 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_brick_slab": {
-    "criteria": {
-      "has_mud_bricks": "2025-04-30 13:37:25 +0200"
     },
     "done": true
   },
@@ -12200,6 +12108,114 @@
   "smallships:recipes/transportation/cherry_cog": {
     "criteria": {
       "in_water": "2025-04-30 13:38:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_chiseled_copper": {
+    "criteria": {
+      "has_waxed_cut_copper_slab": "2025-05-01 01:06:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_glazed_terracotta": {
+    "criteria": {
+      "has_gray_terracotta": "2025-05-01 01:08:39 +0200"
+    },
+    "done": true
+  },
+  "charm:kilns/recipes/gray_glazed_terracotta": {
+    "criteria": {
+      "has_gray_terracotta": "2025-05-01 01:08:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2025-05-01 01:08:40 +0200"
+    },
+    "done": true
+  },
+  "charm:kilns/recipes/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2025-05-01 01:08:40 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-05-02 12:46:15 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-05-02 12:46:15 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-02 12:46:18 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-02 12:46:18 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-02 12:46:18 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/decorations/fir_sign": {
+    "criteria": {
+      "has_planks": "2025-05-02 12:46:18 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2025-05-02 12:46:18 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-02 12:46:18 +0200"
+    },
+    "done": true
+  },
+  "variantcraftingtables:recipes/misc/ns_fir_crafting_table": {
+    "criteria": {
+      "has_planks": "2025-05-02 12:46:18 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2025-05-02 12:46:18 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2025-05-02 12:46:18 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2025-05-02 12:46:18 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/misc/red_dye_from_red_heather": {
+    "criteria": {
+      "has_red_heather": "2025-05-02 12:47:57 +0200"
     },
     "done": true
   },
