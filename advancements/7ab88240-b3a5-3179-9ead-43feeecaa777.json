@@ -122,47 +122,58 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "natures_spirit:woody_highlands": "2025-04-26 16:07:37 +0200",
-      "minecraft:cold_ocean": "2025-04-23 11:57:09 +0200",
-      "natures_spirit:chaparral": "2025-04-17 17:26:12 +0200",
-      "natures_spirit:shrubby_highlands": "2025-04-26 16:07:34 +0200",
       "minecraft:snowy_slopes": "2025-04-17 17:31:30 +0200",
       "minecraft:old_growth_pine_taiga": "2025-04-21 18:55:08 +0200",
-      "natures_spirit:aspen_forest": "2025-04-26 17:16:58 +0200",
-      "minecraft:forest": "2025-04-17 17:28:46 +0200",
+      "minecraft:mushroom_fields": "2025-05-04 20:27:27 +0200",
       "minecraft:taiga": "2025-04-21 19:19:34 +0200",
       "minecraft:deep_ocean": "2025-05-04 12:20:50 +0200",
-      "minecraft:lush_caves": "2025-04-26 16:57:59 +0200",
-      "natures_spirit:drylands": "2025-04-17 17:17:05 +0200",
-      "minecraft:deep_cold_ocean": "2025-04-27 11:29:18 +0200",
-      "minecraft:desert": "2025-04-22 19:35:17 +0200",
       "minecraft:frozen_river": "2025-04-21 19:40:26 +0200",
       "natures_spirit:blooming_sugi_forest": "2025-04-27 01:18:59 +0200",
-      "natures_spirit:tundra": "2025-04-21 19:38:27 +0200",
       "natures_spirit:shrubland": "2025-04-17 17:32:04 +0200",
-      "minecraft:ocean": "2025-04-17 17:29:20 +0200",
       "minecraft:cherry_grove": "2025-04-17 17:31:29 +0200",
       "minecraft:birch_forest": "2025-04-21 18:45:25 +0200",
       "minecraft:windswept_hills": "2025-04-17 17:28:21 +0200",
-      "minecraft:old_growth_spruce_taiga": "2025-04-21 18:54:44 +0200",
-      "minecraft:snowy_beach": "2025-04-21 20:21:15 +0200",
-      "minecraft:warm_ocean": "2025-04-17 17:25:42 +0200",
-      "natures_spirit:maple_woodlands": "2025-04-26 17:17:16 +0200",
       "minecraft:beach": "2025-04-23 11:56:47 +0200",
       "minecraft:dark_forest": "2025-04-21 18:53:55 +0200",
       "minecraft:river": "2025-04-21 17:33:37 +0200",
+      "minecraft:lukewarm_ocean": "2025-05-04 20:28:24 +0200",
       "minecraft:stony_shore": "2025-04-21 17:37:51 +0200",
       "minecraft:snowy_plains": "2025-04-21 19:39:41 +0200",
-      "natures_spirit:arid_savanna": "2025-04-22 19:46:16 +0200",
+      "minecraft:snowy_taiga": "2025-05-04 20:25:55 +0200",
       "natures_spirit:oak_savanna": "2025-04-17 17:31:25 +0200",
-      "minecraft:old_growth_birch_forest": "2025-04-21 18:53:44 +0200",
-      "natures_spirit:boreal_taiga": "2025-04-21 19:42:47 +0200",
+      "natures_spirit:tropical_shores": "2025-05-04 20:29:27 +0200",
+      "natures_spirit:white_cliffs": "2025-05-04 20:26:35 +0200",
       "minecraft:grove": "2025-04-21 18:29:57 +0200",
       "minecraft:swamp": "2025-04-26 17:18:43 +0200",
-      "minecraft:meadow": "2025-04-17 17:33:15 +0200",
-      "minecraft:savanna": "2025-04-17 17:20:59 +0200",
-      "minecraft:plains": "2025-04-17 17:20:46 +0200",
       "minecraft:jagged_peaks": "2025-04-17 18:01:52 +0200",
-      "natures_spirit:sugi_forest": "2025-04-27 01:19:00 +0200"
+      "natures_spirit:sugi_forest": "2025-04-27 01:19:00 +0200",
+      "minecraft:cold_ocean": "2025-04-23 11:57:09 +0200",
+      "natures_spirit:chaparral": "2025-04-17 17:26:12 +0200",
+      "natures_spirit:shrubby_highlands": "2025-04-26 16:07:34 +0200",
+      "natures_spirit:aspen_forest": "2025-04-26 17:16:58 +0200",
+      "minecraft:forest": "2025-04-17 17:28:46 +0200",
+      "minecraft:lush_caves": "2025-04-26 16:57:59 +0200",
+      "natures_spirit:drylands": "2025-04-17 17:17:05 +0200",
+      "minecraft:deep_cold_ocean": "2025-04-27 11:29:18 +0200",
+      "minecraft:frozen_ocean": "2025-05-04 20:24:01 +0200",
+      "minecraft:desert": "2025-04-22 19:35:17 +0200",
+      "natures_spirit:tundra": "2025-04-21 19:38:27 +0200",
+      "minecraft:deep_frozen_ocean": "2025-05-04 20:24:21 +0200",
+      "minecraft:ocean": "2025-04-17 17:29:20 +0200",
+      "minecraft:old_growth_spruce_taiga": "2025-04-21 18:54:44 +0200",
+      "minecraft:snowy_beach": "2025-04-21 20:21:15 +0200",
+      "natures_spirit:coniferous_covert": "2025-05-04 20:26:29 +0200",
+      "minecraft:warm_ocean": "2025-04-17 17:25:42 +0200",
+      "natures_spirit:maple_woodlands": "2025-04-26 17:17:16 +0200",
+      "minecraft:deep_lukewarm_ocean": "2025-05-04 20:28:02 +0200",
+      "natures_spirit:arid_savanna": "2025-04-22 19:46:16 +0200",
+      "minecraft:old_growth_birch_forest": "2025-04-21 18:53:44 +0200",
+      "natures_spirit:boreal_taiga": "2025-04-21 19:42:47 +0200",
+      "minecraft:deep_dark": "2025-05-04 20:42:39 +0200",
+      "minecraft:meadow": "2025-04-17 17:33:15 +0200",
+      "minecraft:windswept_gravelly_hills": "2025-05-04 20:24:15 +0200",
+      "minecraft:savanna": "2025-04-17 17:20:59 +0200",
+      "minecraft:plains": "2025-04-17 17:20:46 +0200"
     },
     "done": false
   },
@@ -5264,7 +5275,8 @@
     "criteria": {
       "sugar_cane": "2025-04-23 11:31:59 +0200",
       "potato": "2025-04-24 12:10:46 +0200",
-      "sweet_berries": "2025-04-21 20:12:15 +0200"
+      "sweet_berries": "2025-04-21 20:12:15 +0200",
+      "wheat": "2025-05-04 19:46:13 +0200"
     },
     "done": false
   },
@@ -10269,6 +10281,108 @@
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_shell": "2025-05-04 12:46:08 +0200"
+    },
+    "done": true
+  },
+  "miku-plushie:recipes/decorations/miku_plush_br_go": {
+    "criteria": {
+      "has_lead": "2025-05-04 20:42:47 +0200"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-05-04 20:42:39 +0200"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/charged_ender_pearl": {
+    "criteria": {
+      "has_void_thorn": "2025-05-04 20:52:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/minecraft_trials_edition": {
+    "criteria": {
+      "minecraft_trials_edition": "2025-05-04 20:59:05 +0200"
+    },
+    "done": true
+  },
+  "charm:sugar_block/recipes/sugar_block": {
+    "criteria": {
+      "has_sugar": "2025-05-04 21:01:00 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-04 21:08:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/wax_off": {
+    "criteria": {
+      "wax_off": "2025-05-04 21:09:25 +0200"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/reinforced_echo_shard": {
+    "criteria": {
+      "has_echo_shard": "2025-05-04 20:43:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-04 21:08:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-04 21:08:26 +0200"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-05-04 20:42:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-05-04 20:59:30 +0200"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/earthdive_spear": {
+    "criteria": {
+      "has_void_thorn": "2025-05-04 20:52:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-05-04 21:02:22 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-05-04 20:43:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-05-04 19:46:13 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_lavender": "2025-05-04 19:46:46 +0200"
     },
     "done": true
   },

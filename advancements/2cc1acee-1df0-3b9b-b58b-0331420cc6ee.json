@@ -124,8 +124,10 @@
       "natures_spirit:woody_highlands": "2025-04-24 17:31:57 +0200",
       "minecraft:snowy_slopes": "2025-04-17 17:31:31 +0200",
       "minecraft:old_growth_pine_taiga": "2025-04-26 17:00:25 +0200",
+      "minecraft:mushroom_fields": "2025-05-04 20:27:28 +0200",
       "minecraft:taiga": "2025-04-21 19:22:25 +0200",
       "minecraft:deep_ocean": "2025-04-21 18:25:25 +0200",
+      "minecraft:frozen_river": "2025-05-04 20:21:54 +0200",
       "natures_spirit:blooming_sugi_forest": "2025-04-26 15:04:54 +0200",
       "natures_spirit:shrubland": "2025-04-17 17:31:42 +0200",
       "minecraft:sunflower_plains": "2025-04-26 15:22:10 +0200",
@@ -138,9 +140,11 @@
       "minecraft:river": "2025-04-17 16:32:28 +0200",
       "minecraft:lukewarm_ocean": "2025-04-24 18:32:46 +0200",
       "minecraft:stony_shore": "2025-04-17 19:00:38 +0200",
+      "minecraft:snowy_plains": "2025-05-04 20:22:21 +0200",
       "minecraft:dripstone_caves": "2025-04-23 16:49:43 +0200",
       "minecraft:snowy_taiga": "2025-04-26 16:59:48 +0200",
       "natures_spirit:oak_savanna": "2025-04-17 17:31:24 +0200",
+      "natures_spirit:tropical_shores": "2025-05-04 20:29:19 +0200",
       "natures_spirit:white_cliffs": "2025-04-21 18:11:59 +0200",
       "minecraft:grove": "2025-04-17 18:47:05 +0200",
       "minecraft:swamp": "2025-04-26 16:59:39 +0200",
@@ -157,9 +161,11 @@
       "natures_spirit:wooded_drylands": "2025-04-17 17:04:43 +0200",
       "minecraft:frozen_ocean": "2025-04-26 17:07:23 +0200",
       "minecraft:desert": "2025-04-23 19:38:55 +0200",
+      "minecraft:deep_frozen_ocean": "2025-05-04 20:24:22 +0200",
       "minecraft:windswept_forest": "2025-04-26 17:00:13 +0200",
       "minecraft:ocean": "2025-04-17 17:28:55 +0200",
       "minecraft:old_growth_spruce_taiga": "2025-04-26 16:59:30 +0200",
+      "minecraft:snowy_beach": "2025-05-04 20:23:58 +0200",
       "natures_spirit:coniferous_covert": "2025-04-21 19:47:14 +0200",
       "minecraft:windswept_savanna": "2025-04-23 20:44:48 +0200",
       "minecraft:warm_ocean": "2025-04-17 17:25:54 +0200",
@@ -168,7 +174,9 @@
       "natures_spirit:arid_savanna": "2025-04-23 20:22:10 +0200",
       "minecraft:frozen_peaks": "2025-04-25 12:23:21 +0200",
       "minecraft:old_growth_birch_forest": "2025-04-21 17:42:56 +0200",
+      "minecraft:deep_dark": "2025-05-04 20:42:34 +0200",
       "minecraft:meadow": "2025-04-17 19:02:07 +0200",
+      "minecraft:windswept_gravelly_hills": "2025-05-04 20:24:15 +0200",
       "minecraft:savanna": "2025-04-17 17:21:14 +0200",
       "minecraft:plains": "2025-04-17 17:20:47 +0200"
     },
@@ -803,6 +811,7 @@
       "pumpkin_patch": "2025-04-17 19:05:08 +0200",
       "prairie": "2025-04-24 18:28:27 +0200",
       "grassland": "2025-04-26 15:31:28 +0200",
+      "tundra": "2025-05-04 20:21:59 +0200",
       "gravel_beach": "2025-04-23 16:26:32 +0200",
       "orchard": "2025-04-17 17:28:37 +0200",
       "field": "2025-04-21 19:37:03 +0200",
@@ -3409,7 +3418,8 @@
       "golden_apple": "2025-04-26 17:30:12 +0200",
       "cooked_mutton": "2025-04-21 17:42:45 +0200",
       "cooked_cod": "2025-04-23 19:52:00 +0200",
-      "baked_potato": "2025-04-27 17:03:27 +0200"
+      "baked_potato": "2025-04-27 17:03:27 +0200",
+      "golden_carrot": "2025-05-04 20:36:11 +0200"
     },
     "done": false
   },
@@ -11008,6 +11018,336 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-05-02 14:35:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-05-04 21:12:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-04 21:13:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-04 21:13:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-05-04 21:12:53 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/decorations/pink_sandstone_wall": {
+    "criteria": {
+      "has_pink_sandstone": "2025-05-04 20:31:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-04 21:13:13 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/decorations/pink_sandstone_wall_from_pink_sandstone_stonecutting": {
+    "criteria": {
+      "has_pink_sandstone": "2025-05-04 20:31:34 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/smooth_pink_sandstone": {
+    "criteria": {
+      "has_pink_sandstone": "2025-05-04 20:31:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_stairs_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-05-04 21:12:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_slab": {
+    "criteria": {
+      "has_polished_tuff": "2025-05-04 21:12:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_breeze_rod": "2025-05-04 20:59:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall": {
+    "criteria": {
+      "has_tuff_bricks": "2025-05-04 21:12:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-05-04 21:12:51 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/cut_pink_sandstone_slab_from_pink_sandstone_stonecutting": {
+    "criteria": {
+      "has_pink_sandstone": "2025-05-04 20:31:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-04 21:13:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_slab_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-05-04 21:12:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs": {
+    "criteria": {
+      "has_tuff_bricks": "2025-05-04 21:12:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-05-04 21:12:51 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/chiseled_pink_sandstone": {
+    "criteria": {
+      "has_pink_sandstone": "2025-05-04 20:31:34 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/pink_sandstone_slab_from_pink_sandstone_stonecutting": {
+    "criteria": {
+      "has_pink_sandstone": "2025-05-04 20:31:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_stairs": {
+    "criteria": {
+      "has_polished_tuff": "2025-05-04 21:12:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-05-04 21:12:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-04 21:13:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-04 21:13:13 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/pink_sandstone_stairs_from_pink_sandstone_stonecutting": {
+    "criteria": {
+      "has_pink_sandstone": "2025-05-04 20:31:34 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/pink_sandstone": {
+    "criteria": {
+      "has_sand": "2025-05-04 20:31:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-04 21:13:13 +0200"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-05-04 20:42:34 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/pink_sandstone_stairs": {
+    "criteria": {
+      "has_pink_sandstone": "2025-05-04 20:31:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/minecraft_trials_edition": {
+    "criteria": {
+      "minecraft_trials_edition": "2025-05-04 20:59:07 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/cut_pink_sandstone_from_pink_sandstone_stonecutting": {
+    "criteria": {
+      "has_pink_sandstone": "2025-05-04 20:31:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-04 21:13:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-04 21:13:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2025-05-04 21:11:42 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/cut_pink_sandstone": {
+    "criteria": {
+      "has_pink_sandstone": "2025-05-04 20:31:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-05-04 21:12:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-04 21:13:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_tuff_wall_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-05-04 21:12:53 +0200"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-05-04 20:42:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-04 21:13:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_tuff_wall": {
+    "criteria": {
+      "has_polished_tuff": "2025-05-04 21:12:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-04 21:13:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-05-04 21:12:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-04 21:13:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wind_charge": {
+    "criteria": {
+      "has_breeze_rod": "2025-05-04 20:59:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-05-04 20:59:27 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/pink_sandstone_slab": {
+    "criteria": {
+      "has_pink_sandstone": "2025-05-04 20:31:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-05-04 21:04:28 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-04 21:13:13 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/chiseled_pink_sandstone_from_pink_sandstone_stonecutting": {
+    "criteria": {
+      "has_pink_sandstone": "2025-05-04 20:31:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_bricks": {
+    "criteria": {
+      "has_polished_tuff": "2025-05-04 21:12:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_bricks_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-05-04 21:12:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-04 21:13:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab": {
+    "criteria": {
+      "has_tuff_bricks": "2025-05-04 21:12:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-05-04 21:12:53 +0200"
     },
     "done": true
   },

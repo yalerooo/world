@@ -143,7 +143,9 @@
       "minecraft:stony_shore": "2025-04-22 18:34:07 +0200",
       "minecraft:snowy_plains": "2025-04-24 12:47:26 +0200",
       "minecraft:dripstone_caves": "2025-04-21 17:29:40 +0200",
+      "minecraft:snowy_taiga": "2025-05-04 20:25:55 +0200",
       "natures_spirit:oak_savanna": "2025-04-23 22:06:52 +0200",
+      "natures_spirit:tropical_shores": "2025-05-04 20:30:40 +0200",
       "natures_spirit:white_cliffs": "2025-04-29 19:15:02 +0200",
       "minecraft:grove": "2025-04-21 19:42:58 +0200",
       "minecraft:swamp": "2025-04-25 12:31:53 +0200",
@@ -160,6 +162,7 @@
       "minecraft:deep_cold_ocean": "2025-04-27 11:29:18 +0200",
       "minecraft:frozen_ocean": "2025-04-25 16:46:36 +0200",
       "minecraft:desert": "2025-04-22 19:16:04 +0200",
+      "minecraft:deep_frozen_ocean": "2025-05-04 20:24:21 +0200",
       "minecraft:ocean": "2025-04-22 18:42:53 +0200",
       "minecraft:old_growth_spruce_taiga": "2025-04-25 16:44:36 +0200",
       "minecraft:snowy_beach": "2025-04-27 20:55:26 +0200",
@@ -175,6 +178,7 @@
       "minecraft:deep_dark": "2025-04-21 17:39:33 +0200",
       "minecraft:meadow": "2025-04-21 17:23:51 +0200",
       "minecraft:windswept_gravelly_hills": "2025-04-24 12:25:10 +0200",
+      "minecraft:savanna": "2025-05-04 20:28:47 +0200",
       "minecraft:plains": "2025-04-21 17:29:02 +0200"
     },
     "done": false
@@ -12016,6 +12020,174 @@
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2025-05-04 18:58:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-05-04 20:59:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-05-04 20:59:01 +0200"
+    },
+    "done": true
+  },
+  "charm:totems_work_from_inventory/used_totem_from_inventory": {
+    "criteria": {
+      "used_totem_from_inventory": "2025-05-04 20:34:14 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_tall_lavender": {
+    "criteria": {
+      "has_tall_lavender": "2025-05-04 19:46:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 19:38:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-05-04 19:26:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_stairs_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-05-04 20:59:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_slab": {
+    "criteria": {
+      "has_polished_tuff": "2025-05-04 20:59:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_slab_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-05-04 20:59:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_stairs": {
+    "criteria": {
+      "has_polished_tuff": "2025-05-04 20:59:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 19:48:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-05-04 20:59:01 +0200"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/charged_ender_pearl": {
+    "criteria": {
+      "has_void_thorn": "2025-05-04 20:52:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/minecraft_trials_edition": {
+    "criteria": {
+      "minecraft_trials_edition": "2025-05-04 20:59:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2025-05-04 21:08:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2025-05-04 21:12:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/wax_off": {
+    "criteria": {
+      "wax_off": "2025-05-04 21:02:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-05-04 20:34:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_tuff_wall_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-05-04 20:59:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 19:26:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_tuff_wall": {
+    "criteria": {
+      "has_polished_tuff": "2025-05-04 20:59:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-05-04 21:00:11 +0200"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/earthdive_spear": {
+    "criteria": {
+      "has_void_thorn": "2025-05-04 20:52:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-05-04 21:06:30 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/tuff_bricks": {
+    "criteria": {
+      "has_polished_tuff": "2025-05-04 20:59:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_bricks_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-05-04 20:59:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-05-04 19:48:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-05-04 20:59:01 +0200"
     },
     "done": true
   },
