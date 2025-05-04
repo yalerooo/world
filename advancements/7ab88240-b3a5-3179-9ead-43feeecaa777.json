@@ -130,6 +130,7 @@
       "natures_spirit:aspen_forest": "2025-04-26 17:16:58 +0200",
       "minecraft:forest": "2025-04-17 17:28:46 +0200",
       "minecraft:taiga": "2025-04-21 19:19:34 +0200",
+      "minecraft:deep_ocean": "2025-05-04 12:20:50 +0200",
       "minecraft:lush_caves": "2025-04-26 16:57:59 +0200",
       "natures_spirit:drylands": "2025-04-17 17:17:05 +0200",
       "minecraft:deep_cold_ocean": "2025-04-27 11:29:18 +0200",
@@ -192,6 +193,7 @@
       "wetland": "2025-04-26 17:18:06 +0200",
       "cold_desert": "2025-04-21 19:37:47 +0200",
       "lavender_field": "2025-04-21 17:27:09 +0200",
+      "old_growth_woodland": "2025-05-04 12:28:08 +0200",
       "maple_woods": "2025-04-22 22:33:11 +0200",
       "pumpkin_patch": "2025-04-22 22:22:10 +0200",
       "grassland": "2025-04-26 16:59:35 +0200",
@@ -204,6 +206,7 @@
       "orchard": "2025-04-17 17:28:36 +0200",
       "field": "2025-04-21 20:16:47 +0200",
       "overgrown_greens": "2025-04-26 16:18:58 +0200",
+      "mediterranean_forest": "2025-05-04 12:28:03 +0200",
       "rainforest": "2025-04-17 17:27:52 +0200",
       "crag": "2025-04-21 19:37:12 +0200",
       "snowy_maple_woods": "2025-04-21 20:28:43 +0200",
@@ -840,7 +843,8 @@
       "baked_potato": "2025-04-21 19:59:07 +0200",
       "porkchop": "2025-04-23 09:23:39 +0200",
       "golden_carrot": "2025-04-22 19:53:52 +0200",
-      "apple": "2025-04-21 19:21:28 +0200"
+      "apple": "2025-04-21 19:21:28 +0200",
+      "cooked_cod": "2025-05-04 12:36:10 +0200"
     },
     "done": false
   },
@@ -9938,6 +9942,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-02 12:27:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-02 12:27:36 +0200"
+    },
+    "done": true
+  },
   "charm:animal_damage_immunity/negated_animal_damage": {
     "criteria": {
       "negated_animal_damage": "2025-05-02 12:32:57 +0200"
@@ -9947,30 +9963,6 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-05-02 12:37:46 +0200"
-    },
-    "done": true
-  },
-  "xp_storage:recipes/misc/nether_star_xp_book_upgrade": {
-    "criteria": {
-      "has_xp_book_upgrade_ingredient": "2025-05-02 12:46:08 +0200"
-    },
-    "done": true
-  },
-  "minecraft:adventure/summon_iron_golem": {
-    "criteria": {
-      "summoned_golem": "2025-05-02 12:43:08 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-05-02 12:27:36 +0200"
-    },
-    "done": true
-  },
-  "fwaystones:recipe/pocket_wormhole": {
-    "criteria": {
-      "has_nether_star": "2025-05-02 12:46:08 +0200"
     },
     "done": true
   },
@@ -9986,6 +9978,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-05-02 12:42:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2025-05-02 12:43:08 +0200"
+    },
+    "done": true
+  },
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2025-05-02 12:43:11 +0200"
@@ -9998,21 +10002,273 @@
     },
     "done": true
   },
+  "xp_storage:recipes/misc/nether_star_xp_book_upgrade": {
+    "criteria": {
+      "has_xp_book_upgrade_ingredient": "2025-05-02 12:46:08 +0200"
+    },
+    "done": true
+  },
+  "fwaystones:recipe/pocket_wormhole": {
+    "criteria": {
+      "has_nether_star": "2025-05-02 12:46:08 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2025-05-02 12:46:08 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jack_o_lantern": {
+  "farmersdelight:recipes/cooking/hot_cocoa": {
     "criteria": {
-      "has_carved_pumpkin": "2025-05-02 12:42:29 +0200"
+      "has_any_ingredient": "2025-05-04 12:21:43 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_campfire": {
+  "farmersdelight:recipes/food/milk_bottle": {
     "criteria": {
-      "has_soul_sand": "2025-05-02 12:27:36 +0200"
+      "has_milk_bucket": "2025-05-04 12:21:43 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-05-04 12:25:36 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_sheet": {
+    "criteria": {
+      "has_black_sheet": "2025-05-04 12:25:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-05-04 12:25:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-05-04 12:25:36 +0200"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/sleeping_bag_black": {
+    "criteria": {
+      "has_black_wool": "2025-05-04 12:25:36 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_cushion": {
+    "criteria": {
+      "has_black_cushion": "2025-05-04 12:25:36 +0200"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/hammock_black": {
+    "criteria": {
+      "has_black_wool": "2025-05-04 12:25:36 +0200"
+    },
+    "done": true
+  },
+  "miku-plushie:recipes/decorations/miku_plush_br_braid": {
+    "criteria": {
+      "has_black_wool": "2025-05-04 12:25:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-05-04 12:25:36 +0200"
+    },
+    "done": true
+  },
+  "jaizmod:recipes/building_blocks/fancy_black_wool": {
+    "criteria": {
+      "has_black_wool": "2025-05-04 12:25:36 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_stool": {
+    "criteria": {
+      "has_wool": "2025-05-04 12:25:36 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_lamp": {
+    "criteria": {
+      "has_wool": "2025-05-04 12:25:36 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_sofa": {
+    "criteria": {
+      "has_wool": "2025-05-04 12:25:36 +0200"
+    },
+    "done": true
+  },
+  "miku-plushie:recipes/decorations/miku_plush_br_fut_fla": {
+    "criteria": {
+      "has_black_wool": "2025-05-04 12:25:36 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_curtain": {
+    "criteria": {
+      "has_wool": "2025-05-04 12:25:36 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_stool": {
+    "criteria": {
+      "has_wool": "2025-05-04 12:26:16 +0200"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/sleeping_bag_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-05-04 12:26:16 +0200"
+    },
+    "done": true
+  },
+  "miku-plushie:recipes/decorations/miku_plush_frog": {
+    "criteria": {
+      "has_gray_wool": "2025-05-04 12:26:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-05-04 12:26:16 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_cushion": {
+    "criteria": {
+      "has_gray_cushion": "2025-05-04 12:26:16 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_curtain": {
+    "criteria": {
+      "has_wool": "2025-05-04 12:26:16 +0200"
+    },
+    "done": true
+  },
+  "jaizmod:recipes/building_blocks/fancy_gray_wool": {
+    "criteria": {
+      "has_gray_wool": "2025-05-04 12:26:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-05-04 12:26:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-05-04 12:26:16 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-05-04 12:26:16 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_sheet": {
+    "criteria": {
+      "has_gray_sheet": "2025-05-04 12:26:16 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_lamp": {
+    "criteria": {
+      "has_wool": "2025-05-04 12:26:16 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-05-04 12:26:16 +0200"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/hammock_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-05-04 12:26:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-04 12:31:57 +0200"
+    },
+    "done": true
+  },
+  "charm:coral_sea_lanterns/recipes/bubble_sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-05-04 12:31:57 +0200"
+    },
+    "done": true
+  },
+  "charm:coral_sea_lanterns/recipes/tube_sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-05-04 12:31:57 +0200"
+    },
+    "done": true
+  },
+  "charm:coral_sea_lanterns/recipes/horn_sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-05-04 12:31:57 +0200"
+    },
+    "done": true
+  },
+  "charm:coral_sea_lanterns/recipes/fire_sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-05-04 12:31:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-04 12:31:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-04 12:31:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-05-04 12:31:57 +0200"
+    },
+    "done": true
+  },
+  "charm:coral_sea_lanterns/recipes/brain_sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-05-04 12:31:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-05-04 12:39:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-05-04 12:46:08 +0200"
     },
     "done": true
   },

@@ -122,52 +122,54 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "natures_spirit:woody_highlands": "2025-04-22 22:38:00 +0200",
-      "minecraft:cold_ocean": "2025-04-22 22:14:11 +0200",
-      "natures_spirit:shrubby_highlands": "2025-04-22 22:38:26 +0200",
       "minecraft:snowy_slopes": "2025-04-21 18:32:12 +0200",
       "minecraft:old_growth_pine_taiga": "2025-04-21 18:54:45 +0200",
-      "natures_spirit:aspen_forest": "2025-04-26 17:16:58 +0200",
-      "minecraft:forest": "2025-04-21 18:29:59 +0200",
       "minecraft:taiga": "2025-04-21 19:21:04 +0200",
       "minecraft:deep_ocean": "2025-04-29 18:41:26 +0200",
+      "natures_spirit:cypress_fields": "2025-05-04 11:02:34 +0200",
+      "minecraft:frozen_river": "2025-04-23 15:27:49 +0200",
+      "natures_spirit:blooming_sugi_forest": "2025-04-21 19:42:31 +0200",
+      "natures_spirit:shrubland": "2025-04-21 17:20:43 +0200",
+      "minecraft:cherry_grove": "2025-04-21 19:43:16 +0200",
+      "minecraft:birch_forest": "2025-04-21 18:45:23 +0200",
+      "minecraft:windswept_hills": "2025-04-30 18:07:16 +0200",
+      "minecraft:beach": "2025-04-22 22:36:54 +0200",
+      "minecraft:dark_forest": "2025-04-21 18:54:00 +0200",
+      "minecraft:mangrove_swamp": "2025-04-23 20:38:58 +0200",
+      "minecraft:river": "2025-04-21 17:33:35 +0200",
+      "minecraft:lukewarm_ocean": "2025-05-04 10:40:48 +0200",
+      "minecraft:stony_shore": "2025-04-21 17:38:06 +0200",
+      "minecraft:snowy_plains": "2025-04-23 15:50:30 +0200",
+      "minecraft:snowy_taiga": "2025-04-23 15:31:29 +0200",
+      "natures_spirit:oak_savanna": "2025-04-23 00:16:26 +0200",
+      "natures_spirit:white_cliffs": "2025-04-21 21:05:39 +0200",
+      "minecraft:grove": "2025-04-21 18:30:22 +0200",
+      "minecraft:swamp": "2025-04-26 17:18:43 +0200",
+      "minecraft:jagged_peaks": "2025-04-21 16:58:58 +0200",
+      "natures_spirit:sugi_forest": "2025-04-21 19:54:40 +0200",
+      "minecraft:cold_ocean": "2025-04-22 22:14:11 +0200",
+      "natures_spirit:shrubby_highlands": "2025-04-22 22:38:26 +0200",
+      "natures_spirit:aspen_forest": "2025-04-26 17:16:58 +0200",
+      "minecraft:forest": "2025-04-21 18:29:59 +0200",
       "minecraft:lush_caves": "2025-04-22 23:12:56 +0200",
       "natures_spirit:drylands": "2025-04-23 18:10:00 +0200",
       "minecraft:deep_cold_ocean": "2025-04-22 23:04:29 +0200",
       "minecraft:ice_spikes": "2025-04-23 16:01:43 +0200",
       "minecraft:desert": "2025-04-22 21:47:34 +0200",
-      "minecraft:frozen_river": "2025-04-23 15:27:49 +0200",
-      "natures_spirit:blooming_sugi_forest": "2025-04-21 19:42:31 +0200",
       "natures_spirit:tundra": "2025-04-23 16:03:59 +0200",
-      "natures_spirit:shrubland": "2025-04-21 17:20:43 +0200",
       "minecraft:ocean": "2025-04-21 17:39:46 +0200",
-      "minecraft:cherry_grove": "2025-04-21 19:43:16 +0200",
-      "minecraft:birch_forest": "2025-04-21 18:45:23 +0200",
-      "minecraft:windswept_hills": "2025-04-30 18:07:16 +0200",
       "minecraft:old_growth_spruce_taiga": "2025-04-21 19:26:00 +0200",
       "minecraft:snowy_beach": "2025-04-23 15:53:11 +0200",
       "natures_spirit:coniferous_covert": "2025-04-30 20:08:30 +0200",
       "minecraft:windswept_savanna": "2025-04-23 20:43:46 +0200",
       "minecraft:warm_ocean": "2025-04-23 20:47:23 +0200",
       "natures_spirit:maple_woodlands": "2025-04-26 17:17:16 +0200",
-      "minecraft:beach": "2025-04-22 22:36:54 +0200",
-      "minecraft:dark_forest": "2025-04-21 18:54:00 +0200",
-      "minecraft:mangrove_swamp": "2025-04-23 20:38:58 +0200",
       "natures_spirit:blooming_highlands": "2025-04-30 20:23:40 +0200",
-      "minecraft:river": "2025-04-21 17:33:35 +0200",
-      "minecraft:stony_shore": "2025-04-21 17:38:06 +0200",
-      "minecraft:snowy_plains": "2025-04-23 15:50:30 +0200",
       "natures_spirit:arid_savanna": "2025-04-22 21:53:59 +0200",
-      "minecraft:snowy_taiga": "2025-04-23 15:31:29 +0200",
       "minecraft:frozen_peaks": "2025-04-21 19:42:53 +0200",
-      "natures_spirit:oak_savanna": "2025-04-23 00:16:26 +0200",
       "minecraft:old_growth_birch_forest": "2025-04-21 18:53:48 +0200",
-      "natures_spirit:white_cliffs": "2025-04-21 21:05:39 +0200",
-      "minecraft:grove": "2025-04-21 18:30:22 +0200",
-      "minecraft:swamp": "2025-04-26 17:18:43 +0200",
       "minecraft:meadow": "2025-04-21 21:22:10 +0200",
-      "minecraft:plains": "2025-04-21 21:23:05 +0200",
-      "minecraft:jagged_peaks": "2025-04-21 16:58:58 +0200",
-      "natures_spirit:sugi_forest": "2025-04-21 19:54:40 +0200"
+      "minecraft:plains": "2025-04-21 21:23:05 +0200"
     },
     "done": false
   },
@@ -1827,13 +1829,16 @@
       "spider_nest": "2025-04-21 21:45:03 +0200",
       "forested_field": "2025-04-22 14:26:41 +0200",
       "muskeg": "2025-04-23 15:28:03 +0200",
+      "woodland": "2025-05-04 10:41:03 +0200",
       "shrubland": "2025-04-23 00:20:23 +0200",
       "snowblossom_grove": "2025-04-23 15:31:05 +0200",
       "rocky_shrubland": "2025-04-21 17:37:26 +0200",
       "lush_desert": "2025-04-22 21:48:17 +0200",
       "redwood_forest": "2025-04-21 17:44:19 +0200",
+      "scrubland": "2025-05-04 10:41:16 +0200",
       "aspen_glade": "2025-04-21 21:23:34 +0200",
       "dune_beach": "2025-04-29 18:41:46 +0200",
+      "floodplain": "2025-05-04 12:00:15 +0200",
       "lush_savanna": "2025-04-22 21:51:19 +0200",
       "seasonal_forest": "2025-04-22 14:55:36 +0200",
       "auroral_garden": "2025-04-23 16:08:36 +0200",
@@ -1843,6 +1848,7 @@
       "wetland": "2025-04-26 17:18:06 +0200",
       "cold_desert": "2025-04-23 15:25:44 +0200",
       "lavender_field": "2025-04-21 17:27:07 +0200",
+      "old_growth_woodland": "2025-05-04 11:01:53 +0200",
       "maple_woods": "2025-04-21 21:45:24 +0200",
       "pumpkin_patch": "2025-04-21 21:53:42 +0200",
       "grassland": "2025-04-26 17:01:22 +0200",
@@ -1853,6 +1859,7 @@
       "orchard": "2025-04-21 17:28:28 +0200",
       "field": "2025-04-21 21:44:12 +0200",
       "overgrown_greens": "2025-04-21 18:22:02 +0200",
+      "mediterranean_forest": "2025-05-04 10:42:04 +0200",
       "crag": "2025-04-21 21:40:03 +0200",
       "coniferous_forest": "2025-04-21 21:44:33 +0200",
       "ominous_woods": "2025-04-26 17:17:49 +0200"
@@ -11766,6 +11773,174 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_stairs_from_tuff_or_mossy_cobbled_tuff_stonecutting": {
     "criteria": {
       "has_tuff_or_mossy_cobbled_tuff": "2025-05-02 10:58:36 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_wall_from_netherrack_or_cobbled_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack_or_cobbled_netherrack": "2025-05-04 10:53:10 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-05-04 10:53:10 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_stairs_from_netherrack_or_mossy_netherrack_bricks_stonecutting": {
+    "criteria": {
+      "has_netherrack_or_mossy_netherrack_bricks": "2025-05-04 10:53:10 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-05-04 10:53:10 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-05-04 10:53:10 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-05-04 10:53:10 +0200"
+    },
+    "done": true
+  },
+  "charm:kilns/recipes/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-05-04 10:53:10 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_stairs_from_netherrack_or_polished_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack_or_polished_netherrack": "2025-05-04 10:53:10 +0200"
+    },
+    "done": true
+  },
+  "miku-plushie:recipes/decorations/miku_plush_devil": {
+    "criteria": {
+      "has_netherrack": "2025-05-04 10:53:10 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_slab_from_netherrack_or_netherrack_bricks_stonecutting": {
+    "criteria": {
+      "has_netherrack_or_netherrack_bricks": "2025-05-04 10:53:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-05-04 10:53:10 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_wall_from_netherrack_or_polished_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack_or_polished_netherrack": "2025-05-04 10:53:10 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_slab_from_netherrack_or_polished_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack_or_polished_netherrack": "2025-05-04 10:53:10 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_wall_from_netherrack_or_mossy_netherrack_bricks_stonecutting": {
+    "criteria": {
+      "has_netherrack_or_mossy_netherrack_bricks": "2025-05-04 10:53:10 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_stairs_from_netherrack_or_mossy_cobbled_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack_or_mossy_cobbled_netherrack": "2025-05-04 10:53:10 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_stairs_from_netherrack_or_netherrack_bricks_stonecutting": {
+    "criteria": {
+      "has_netherrack_or_netherrack_bricks": "2025-05-04 10:53:10 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_wall_from_netherrack_or_mossy_cobbled_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack_or_mossy_cobbled_netherrack": "2025-05-04 10:53:10 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_wall_from_netherrack_or_netherrack_bricks_stonecutting": {
+    "criteria": {
+      "has_netherrack_or_netherrack_bricks": "2025-05-04 10:53:10 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_stairs_from_netherrack_or_cobbled_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack_or_cobbled_netherrack": "2025-05-04 10:53:10 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_slab_from_netherrack_or_mossy_netherrack_bricks_stonecutting": {
+    "criteria": {
+      "has_netherrack_or_mossy_netherrack_bricks": "2025-05-04 10:53:10 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-05-04 10:53:10 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_slab_from_netherrack_or_mossy_cobbled_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack_or_mossy_cobbled_netherrack": "2025-05-04 10:53:10 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_slab_from_netherrack_or_cobbled_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack_or_cobbled_netherrack": "2025-05-04 10:53:10 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-05-04 10:53:10 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-05-04 11:54:58 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-04 12:05:02 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-05-04 12:05:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-05-04 12:44:58 +0200"
     },
     "done": true
   },

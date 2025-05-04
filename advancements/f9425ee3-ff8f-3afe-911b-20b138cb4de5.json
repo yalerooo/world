@@ -4680,6 +4680,12 @@
     },
     "done": true
   },
+  "smallships:recipes/combat/cannon": {
+    "criteria": {
+      "has_ship": "2025-05-02 15:07:35 +0200"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/bamboo_galley": {
     "criteria": {
       "in_water": "2025-05-02 15:08:20 +0200"
@@ -4797,12 +4803,6 @@
   "smallships:recipes/transportation/bamboo_cog": {
     "criteria": {
       "in_water": "2025-05-02 15:08:20 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/combat/cannon": {
-    "criteria": {
-      "has_ship": "2025-05-02 15:07:35 +0200"
     },
     "done": true
   },
