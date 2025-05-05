@@ -550,6 +550,7 @@
       "poppy": "2025-04-21 17:21:21 +0200",
       "anemone": "2025-04-21 18:38:49 +0200",
       "bluebell": "2025-04-23 16:52:05 +0200",
+      "cornflower": "2025-05-05 15:04:50 +0200",
       "allium": "2025-04-30 19:39:28 +0200",
       "blue_orchid": "2025-04-30 19:41:20 +0200",
       "sunflower": "2025-04-21 21:46:11 +0200",
@@ -12171,6 +12172,66 @@
   "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
       "kill_mob_near_sculk_catalyst": "2025-05-04 21:02:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-05-05 15:04:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_slab_from_weathered_cut_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_cut_copper": "2025-05-05 16:52:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_chiseled_copper_from_weathered_cut_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_cut_copper": "2025-05-05 16:52:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_stairs": {
+    "criteria": {
+      "has_weathered_cut_copper": "2025-05-05 16:52:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_slab": {
+    "criteria": {
+      "has_weathered_cut_copper": "2025-05-05 16:52:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_stairs_from_weathered_cut_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_cut_copper": "2025-05-05 16:52:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_from_honeycomb": {
+    "criteria": {
+      "has_weathered_cut_copper": "2025-05-05 16:52:34 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-05 17:07:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-05 17:07:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-05 17:07:14 +0200"
     },
     "done": true
   },
