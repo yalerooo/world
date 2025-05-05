@@ -13735,45 +13735,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_bed": {
-    "criteria": {
-      "has_purple_wool": "2025-05-04 22:55:55 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_sheet_from_blue_dye": {
-    "criteria": {
-      "has_blue_sheet": "2025-05-04 23:16:11 +0200"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/acacia_shutter": {
-    "criteria": {
-      "has_slab": "2025-05-04 23:05:53 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/purple_candle": {
     "criteria": {
       "has_purple_dye": "2025-05-04 22:54:00 +0200"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/purple_stool": {
-    "criteria": {
-      "has_wool": "2025-05-04 22:55:55 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_sheet_from_light_blue_dye": {
-    "criteria": {
-      "has_light_blue_sheet": "2025-05-04 23:16:11 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_carpet": {
-    "criteria": {
-      "has_purple_wool": "2025-05-04 22:55:55 +0200"
     },
     "done": true
   },
@@ -13783,21 +13747,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_sheet_from_magenta_dye": {
+  "comforts:recipes/building_blocks/dye_sleeping_bag_purple": {
     "criteria": {
-      "has_magenta_sheet": "2025-05-04 23:16:11 +0200"
+      "has_needed_dye": "2025-05-04 22:54:00 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_sheet_from_pink_dye": {
+  "minecraft:recipes/building_blocks/dye_purple_bed": {
     "criteria": {
-      "has_pink_sheet": "2025-05-04 23:16:11 +0200"
+      "has_needed_dye": "2025-05-04 22:54:00 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/misc/orange_sheet_from_orange_dye": {
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
     "criteria": {
-      "has_orange_sheet": "2025-05-04 23:16:11 +0200"
+      "has_needed_dye": "2025-05-04 22:54:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-04 22:54:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2025-05-04 22:55:55 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/purple_stool": {
+    "criteria": {
+      "has_wool": "2025-05-04 22:55:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2025-05-04 22:55:55 +0200"
     },
     "done": true
   },
@@ -13813,48 +13801,6 @@
     },
     "done": true
   },
-  "another_furniture:recipes/acacia_flower_box": {
-    "criteria": {
-      "has_slab": "2025-05-04 23:05:53 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lime_sheet_from_lime_dye": {
-    "criteria": {
-      "has_lime_sheet": "2025-05-04 23:16:11 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/purple_sheet_from_purple_dye": {
-    "criteria": {
-      "has_purple_sheet": "2025-05-04 23:16:11 +0200"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/acacia_bench": {
-    "criteria": {
-      "has_slab": "2025-05-04 23:05:53 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/green_sheet_from_green_dye": {
-    "criteria": {
-      "has_green_sheet": "2025-05-04 23:16:11 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/cyan_sheet_from_cyan_dye": {
-    "criteria": {
-      "has_cyan_sheet": "2025-05-04 23:16:11 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_sheet_from_light_gray_dye": {
-    "criteria": {
-      "has_light_gray_sheet": "2025-05-04 23:16:11 +0200"
-    },
-    "done": true
-  },
   "another_furniture:recipes/purple_curtain": {
     "criteria": {
       "has_wool": "2025-05-04 22:55:55 +0200"
@@ -13864,18 +13810,6 @@
   "handcrafted:recipes/misc/purple_sheet": {
     "criteria": {
       "has_purple_sheet": "2025-05-04 22:55:55 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_sheet_from_red_dye": {
-    "criteria": {
-      "has_red_sheet": "2025-05-04 23:16:11 +0200"
-    },
-    "done": true
-  },
-  "comforts:recipes/building_blocks/dye_sleeping_bag_purple": {
-    "criteria": {
-      "has_needed_dye": "2025-05-04 22:54:00 +0200"
     },
     "done": true
   },
@@ -13897,9 +13831,99 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_purple_bed": {
+  "comforts:recipes/decorations/sleeping_bag_purple": {
     "criteria": {
-      "has_needed_dye": "2025-05-04 22:54:00 +0200"
+      "has_purple_wool": "2025-05-04 22:55:55 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/purple_lamp": {
+    "criteria": {
+      "has_wool": "2025-05-04 22:55:55 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/acacia_shutter": {
+    "criteria": {
+      "has_slab": "2025-05-04 23:05:53 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/acacia_flower_box": {
+    "criteria": {
+      "has_slab": "2025-05-04 23:05:53 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/acacia_bench": {
+    "criteria": {
+      "has_slab": "2025-05-04 23:05:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_sheet_from_blue_dye": {
+    "criteria": {
+      "has_blue_sheet": "2025-05-04 23:16:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_sheet_from_light_blue_dye": {
+    "criteria": {
+      "has_light_blue_sheet": "2025-05-04 23:16:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_sheet_from_magenta_dye": {
+    "criteria": {
+      "has_magenta_sheet": "2025-05-04 23:16:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_sheet_from_pink_dye": {
+    "criteria": {
+      "has_pink_sheet": "2025-05-04 23:16:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_sheet_from_orange_dye": {
+    "criteria": {
+      "has_orange_sheet": "2025-05-04 23:16:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_sheet_from_lime_dye": {
+    "criteria": {
+      "has_lime_sheet": "2025-05-04 23:16:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_sheet_from_purple_dye": {
+    "criteria": {
+      "has_purple_sheet": "2025-05-04 23:16:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_sheet_from_green_dye": {
+    "criteria": {
+      "has_green_sheet": "2025-05-04 23:16:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_sheet_from_cyan_dye": {
+    "criteria": {
+      "has_cyan_sheet": "2025-05-04 23:16:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_sheet_from_light_gray_dye": {
+    "criteria": {
+      "has_light_gray_sheet": "2025-05-04 23:16:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_sheet_from_red_dye": {
+    "criteria": {
+      "has_red_sheet": "2025-05-04 23:16:11 +0200"
     },
     "done": true
   },
@@ -13912,30 +13936,6 @@
   "minecraft:recipes/misc/yellow_sheet_from_yellow_dye": {
     "criteria": {
       "has_yellow_sheet": "2025-05-04 23:16:11 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_purple_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-05-04 22:54:00 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_purple_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-05-04 22:54:00 +0200"
-    },
-    "done": true
-  },
-  "comforts:recipes/decorations/sleeping_bag_purple": {
-    "criteria": {
-      "has_purple_wool": "2025-05-04 22:55:55 +0200"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/purple_lamp": {
-    "criteria": {
-      "has_wool": "2025-05-04 22:55:55 +0200"
     },
     "done": true
   },
@@ -13954,6 +13954,72 @@
   "minecraft:recipes/misc/black_sheet_from_black_dye": {
     "criteria": {
       "has_black_sheet": "2025-05-04 23:16:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-05 00:59:46 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_plate": {
+    "criteria": {
+      "has_white_plate": "2025-05-05 00:59:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-05-05 00:59:46 +0200"
+    },
+    "done": true
+  },
+  "comforts:recipes/building_blocks/dye_sleeping_bag_white": {
+    "criteria": {
+      "has_needed_dye": "2025-05-05 00:59:46 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_cup": {
+    "criteria": {
+      "has_white_cup": "2025-05-05 00:59:46 +0200"
+    },
+    "done": true
+  },
+  "comforts:recipes/building_blocks/dye_hammock_white": {
+    "criteria": {
+      "has_needed_dye": "2025-05-05 00:59:46 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_crockery_combo": {
+    "criteria": {
+      "has_white_crockery_combo": "2025-05-05 00:59:46 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_bowl": {
+    "criteria": {
+      "has_white_bowl": "2025-05-05 00:59:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-05-05 00:59:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-05 00:59:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-05 00:59:46 +0200"
     },
     "done": true
   },
