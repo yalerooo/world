@@ -12378,5 +12378,437 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/dark_prismarine_tile_wall_from_dark_prismarine_or_dark_prismarine_tiles_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine_or_dark_prismarine_tiles": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_dark_prismarine_stairs_from_dark_prismarine_or_cobbled_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine_or_cobbled_dark_prismarine": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_dark_prismarine_wall_from_dark_prismarine_or_cobbled_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine_or_cobbled_dark_prismarine": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_shingles_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_tile_stairs_from_dark_prismarine_or_dark_prismarine_tiles_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine_or_dark_prismarine_tiles": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/raw_dark_prismarine_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/raw_dark_prismarine_wall_from_dark_prismarine_or_raw_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine_or_raw_dark_prismarine": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_dark_prismarine_bricks_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/chiseled_dark_prismarine_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_dark_prismarine_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_dark_prismarine_slab_from_dark_prismarine_or_polished_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine_or_polished_dark_prismarine": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_tiles_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_brick_slab_from_dark_prismarine_or_dark_prismarine_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine_or_dark_prismarine_bricks": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_plate_slab_from_dark_prismarine_or_dark_prismarine_plates_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine_or_dark_prismarine_plates": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_dark_prismarine_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_dark_prismarine_slab_from_dark_prismarine_or_cobbled_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine_or_cobbled_dark_prismarine": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_dark_prismarine_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_dark_prismarine_brick_stairs_from_dark_prismarine_or_mossy_dark_prismarine_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine_or_mossy_dark_prismarine_bricks": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_bricks_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_brick_wall_from_dark_prismarine_or_dark_prismarine_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine_or_dark_prismarine_bricks": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_shingle_slab_from_dark_prismarine_or_dark_prismarine_shingles_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine_or_dark_prismarine_shingles": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_dark_prismarine_slab_from_dark_prismarine_or_mossy_cobbled_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine_or_mossy_cobbled_dark_prismarine": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_plate_wall_from_dark_prismarine_or_dark_prismarine_plates_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine_or_dark_prismarine_plates": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_dark_prismarine_tiles_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_plate_stairs_from_dark_prismarine_or_dark_prismarine_plates_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine_or_dark_prismarine_plates": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_pillar_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_dark_prismarine_brick_slab_from_dark_prismarine_or_mossy_dark_prismarine_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine_or_mossy_dark_prismarine_bricks": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_tile_slab_from_dark_prismarine_or_dark_prismarine_tiles_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine_or_dark_prismarine_tiles": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_dark_prismarine_bricks_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_brick_stairs_from_dark_prismarine_or_dark_prismarine_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine_or_dark_prismarine_bricks": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_dark_prismarine_stairs_from_dark_prismarine_or_polished_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine_or_polished_dark_prismarine": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_dark_prismarine_wall_from_dark_prismarine_or_polished_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine_or_polished_dark_prismarine": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_plates_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_dark_prismarine_stairs_from_dark_prismarine_or_mossy_cobbled_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine_or_mossy_cobbled_dark_prismarine": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_dark_prismarine_wall_from_dark_prismarine_or_mossy_cobbled_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine_or_mossy_cobbled_dark_prismarine": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/raw_dark_prismarine_slab_from_dark_prismarine_or_raw_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine_or_raw_dark_prismarine": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_shingle_stairs_from_dark_prismarine_or_dark_prismarine_shingles_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine_or_dark_prismarine_shingles": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/raw_dark_prismarine_stairs_from_dark_prismarine_or_raw_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine_or_raw_dark_prismarine": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_shingle_wall_from_dark_prismarine_or_dark_prismarine_shingles_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine_or_dark_prismarine_shingles": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_dark_prismarine_brick_wall_from_dark_prismarine_or_mossy_dark_prismarine_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine_or_mossy_dark_prismarine_bricks": "2025-05-06 18:59:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-05-06 19:07:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-05-06 19:10:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-06 19:10:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-06 19:10:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-06 19:10:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-05-06 19:10:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-05-06 19:10:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_cut_copper_stairs": "2025-05-06 19:10:43 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fruit_salad": {
+    "criteria": {
+      "has_fruits": "2025-05-06 19:55:08 +0200"
+    },
+    "done": true
+  },
+  "charm:kilns/recipes/terracotta": {
+    "criteria": {
+      "has_clay": "2025-05-06 22:17:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-05-06 22:17:45 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/kaolin": {
+    "criteria": {
+      "has_clay": "2025-05-06 22:17:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_cushion_from_light_blue_dye": {
+    "criteria": {
+      "has_light_blue_cushion": "2025-05-06 22:23:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_cushion_from_magenta_dye": {
+    "criteria": {
+      "has_magenta_cushion": "2025-05-06 22:23:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_cushion_from_purple_dye": {
+    "criteria": {
+      "has_purple_cushion": "2025-05-06 22:23:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_cushion_from_green_dye": {
+    "criteria": {
+      "has_green_cushion": "2025-05-06 22:23:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_cushion_from_yellow_dye": {
+    "criteria": {
+      "has_yellow_cushion": "2025-05-06 22:23:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_cushion_from_pink_dye": {
+    "criteria": {
+      "has_pink_cushion": "2025-05-06 22:23:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_cushion_from_blue_dye": {
+    "criteria": {
+      "has_blue_cushion": "2025-05-06 22:23:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_cushion_from_orange_dye": {
+    "criteria": {
+      "has_orange_cushion": "2025-05-06 22:23:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_cushion_from_cyan_dye": {
+    "criteria": {
+      "has_cyan_cushion": "2025-05-06 22:23:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_cushion_from_brown_dye": {
+    "criteria": {
+      "has_brown_cushion": "2025-05-06 22:23:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_cushion_from_red_dye": {
+    "criteria": {
+      "has_red_cushion": "2025-05-06 22:23:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_cushion_from_gray_dye": {
+    "criteria": {
+      "has_gray_cushion": "2025-05-06 22:23:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_cushion_from_white_dye": {
+    "criteria": {
+      "has_white_cushion": "2025-05-06 22:23:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_cushion_from_black_dye": {
+    "criteria": {
+      "has_black_cushion": "2025-05-06 22:23:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_cushion_from_lime_dye": {
+    "criteria": {
+      "has_lime_cushion": "2025-05-06 22:23:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_cushion_from_light_gray_dye": {
+    "criteria": {
+      "has_light_gray_cushion": "2025-05-06 22:23:43 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

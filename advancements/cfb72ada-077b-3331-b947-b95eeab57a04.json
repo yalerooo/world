@@ -12235,5 +12235,23 @@
     },
     "done": true
   },
+  "another_furniture:recipes/cherry_shutter": {
+    "criteria": {
+      "has_slab": "2025-05-06 20:04:49 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cherry_flower_box": {
+    "criteria": {
+      "has_slab": "2025-05-06 20:04:49 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cherry_bench": {
+    "criteria": {
+      "has_slab": "2025-05-06 20:04:49 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
