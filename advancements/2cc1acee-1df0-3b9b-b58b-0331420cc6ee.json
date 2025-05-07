@@ -11351,6 +11351,24 @@
     },
     "done": true
   },
+  "charm:vanilla_wood_variants/recipes/trapped_cherry_chest": {
+    "criteria": {
+      "has_chest": "2025-05-05 21:13:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-05-05 21:14:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-05-05 21:14:35 +0200"
+    },
+    "done": true
+  },
   "charm:vanilla_wood_variants/recipes/chiseled_cherry_bookshelf": {
     "criteria": {
       "has_slab": "2025-05-05 21:14:36 +0200"
@@ -11360,12 +11378,6 @@
   "another_furniture:recipes/cherry_shutter": {
     "criteria": {
       "has_slab": "2025-05-05 21:14:36 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_planks": {
-    "criteria": {
-      "has_log": "2025-05-05 21:14:35 +0200"
     },
     "done": true
   },
@@ -11387,15 +11399,471 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cherry_wood": {
+  "charm:vanilla_wood_variants/recipes/trapped_spruce_chest": {
     "criteria": {
-      "has_log": "2025-05-05 21:14:35 +0200"
+      "has_chest": "2025-05-07 16:35:11 +0200"
     },
     "done": true
   },
-  "charm:vanilla_wood_variants/recipes/trapped_cherry_chest": {
+  "jaizmod:adventure/craft_glowing_spyglass": {
     "criteria": {
-      "has_chest": "2025-05-05 21:13:39 +0200"
+      "glowing_spyglass": "2025-05-07 16:36:32 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bacon_sandwich": {
+    "criteria": {
+      "has_bacon": "2025-05-07 16:36:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-05-07 16:36:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-05-07 16:36:57 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bacon_and_eggs": {
+    "criteria": {
+      "has_bacon": "2025-05-07 16:36:57 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/food/rabbit_stew_from_toadstool": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-05-07 16:36:57 +0200"
+    },
+    "done": true
+  },
+  "xp_storage:recipes/misc/xp_book_upgrade_smithing_template": {
+    "criteria": {
+      "has_crystallized_lapis": "2025-05-07 16:37:07 +0200"
+    },
+    "done": true
+  },
+  "xp_storage:recipes/misc/xp_book_upgrade_smithing_template_duplication": {
+    "criteria": {
+      "has_crystallized_lapis": "2025-05-07 16:37:07 +0200"
+    },
+    "done": true
+  },
+  "xp_storage:recipes/tools/xp_book": {
+    "criteria": {
+      "has_crystallized_lapis": "2025-05-07 16:37:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-05-07 16:37:41 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_cupboard": {
+    "criteria": {
+      "has_cherry_cupboard": "2025-05-07 16:38:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-07 16:38:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-05-07 16:38:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-07 16:38:21 +0200"
+    },
+    "done": true
+  },
+  "variantcraftingtables:recipes/misc/cherry_crafting_table": {
+    "criteria": {
+      "has_planks": "2025-05-07 16:38:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-05-07 16:38:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-07 16:38:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-07 16:38:21 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_fancy_bed": {
+    "criteria": {
+      "has_cherry_fancy_bed": "2025-05-07 16:38:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-05-07 16:38:21 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_couch": {
+    "criteria": {
+      "has_cherry_couch": "2025-05-07 16:38:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-05-07 16:38:21 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_counter": {
+    "criteria": {
+      "has_cherry_counter": "2025-05-07 16:38:21 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_bench": {
+    "criteria": {
+      "has_cherry_bench": "2025-05-07 16:38:21 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cherry_chair": {
+    "criteria": {
+      "has_planks": "2025-05-07 16:38:21 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_side_table": {
+    "criteria": {
+      "has_cherry_side_table": "2025-05-07 16:38:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-07 16:38:21 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_corner_trim": {
+    "criteria": {
+      "has_cherry_corner_trim": "2025-05-07 16:38:21 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_nightstand": {
+    "criteria": {
+      "has_cherry_nightstand": "2025-05-07 16:38:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-07 16:38:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-05-07 16:38:21 +0200"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/cherry_chest": {
+    "criteria": {
+      "has_planks": "2025-05-07 16:38:21 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_dining_bench": {
+    "criteria": {
+      "has_cherry_dining_bench": "2025-05-07 16:38:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-07 16:38:21 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_chair": {
+    "criteria": {
+      "has_cherry_chair": "2025-05-07 16:38:21 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cherry_shelf": {
+    "criteria": {
+      "has_planks": "2025-05-07 16:38:21 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_desk": {
+    "criteria": {
+      "has_cherry_desk": "2025-05-07 16:38:21 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_shelf": {
+    "criteria": {
+      "has_cherry_shelf": "2025-05-07 16:38:21 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_pillar_trim": {
+    "criteria": {
+      "has_cherry_pillar_trim": "2025-05-07 16:38:21 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_drawer": {
+    "criteria": {
+      "has_cherry_drawer": "2025-05-07 16:38:21 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cherry_table": {
+    "criteria": {
+      "has_planks": "2025-05-07 16:38:21 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_table": {
+    "criteria": {
+      "has_cherry_table": "2025-05-07 16:38:21 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/red_sofa": {
+    "criteria": {
+      "has_wool": "2025-05-07 16:40:52 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/red_curtain": {
+    "criteria": {
+      "has_wool": "2025-05-07 16:40:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-05-07 16:40:52 +0200"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/sleeping_bag_red": {
+    "criteria": {
+      "has_red_wool": "2025-05-07 16:40:52 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/red_cushion": {
+    "criteria": {
+      "has_red_cushion": "2025-05-07 16:40:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-05-07 16:40:52 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/red_sheet": {
+    "criteria": {
+      "has_red_sheet": "2025-05-07 16:40:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-05-07 16:40:52 +0200"
+    },
+    "done": true
+  },
+  "jaizmod:recipes/food/unfired_tea_cup": {
+    "criteria": {
+      "has_clay_ball": "2025-05-07 16:40:52 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/red_lamp": {
+    "criteria": {
+      "has_wool": "2025-05-07 16:40:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-05-07 16:40:52 +0200"
+    },
+    "done": true
+  },
+  "charm:kilns/recipes/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-05-07 16:40:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-05-07 16:40:52 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/red_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-05-07 16:40:52 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/red_stool": {
+    "criteria": {
+      "has_wool": "2025-05-07 16:40:52 +0200"
+    },
+    "done": true
+  },
+  "jaizmod:recipes/building_blocks/fancy_red_wool": {
+    "criteria": {
+      "has_red_wool": "2025-05-07 16:40:52 +0200"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/hammock_red": {
+    "criteria": {
+      "has_red_wool": "2025-05-07 16:40:52 +0200"
+    },
+    "done": true
+  },
+  "charm:recipe_improvements/recipes/green_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-05-07 16:40:57 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-05-07 16:41:08 +0200"
+    },
+    "done": true
+  },
+  "charm:recipe_improvements/recipes/gilded_blackstone": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-07 16:41:08 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-05-07 16:41:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-05-07 16:41:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-05-07 16:41:08 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-07 16:43:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-07 16:43:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-07 16:43:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-05-07 16:44:10 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2025-05-07 16:44:10 +0200"
+    },
+    "done": true
+  },
+  "charm:coral_squids/obtained_coral_squid_bucket": {
+    "criteria": {
+      "obtained_coral_squid": "2025-05-07 16:49:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-07 17:06:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-05-07 17:06:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-07 17:06:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-07 17:06:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-07 17:06:25 +0200"
+    },
+    "done": true
+  },
+  "inmis:ender_pouch": {
+    "criteria": {
+      "backpack": "2025-05-07 17:30:44 +0200"
     },
     "done": true
   },
