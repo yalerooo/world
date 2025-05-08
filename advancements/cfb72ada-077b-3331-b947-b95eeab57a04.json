@@ -12259,5 +12259,281 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-05-08 13:36:47 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_pillar_trim": {
+    "criteria": {
+      "has_jungle_pillar_trim": "2025-05-08 13:37:52 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_side_table": {
+    "criteria": {
+      "has_jungle_side_table": "2025-05-08 13:37:52 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-08 13:09:07 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_chair": {
+    "criteria": {
+      "has_planks": "2025-05-08 13:37:52 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-08 13:09:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-08 13:37:52 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_dining_bench": {
+    "criteria": {
+      "has_jungle_dining_bench": "2025-05-08 13:37:52 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_nightstand": {
+    "criteria": {
+      "has_jungle_nightstand": "2025-05-08 13:37:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-08 13:37:52 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_drawer": {
+    "criteria": {
+      "has_jungle_drawer": "2025-05-08 13:37:52 +0200"
+    },
+    "done": true
+  },
+  "chipped:recipes/misc/saw": {
+    "criteria": {
+      "has_saw": "2025-05-08 13:11:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-05-08 13:37:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-05-08 13:37:52 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-08 13:09:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-05-08 13:37:52 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_table": {
+    "criteria": {
+      "has_planks": "2025-05-08 13:37:52 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_corner_trim": {
+    "criteria": {
+      "has_jungle_corner_trim": "2025-05-08 13:37:52 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_cupboard": {
+    "criteria": {
+      "has_jungle_cupboard": "2025-05-08 13:37:52 +0200"
+    },
+    "done": true
+  },
+  "variantcraftingtables:recipes/misc/jungle_crafting_table": {
+    "criteria": {
+      "has_planks": "2025-05-08 13:37:52 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_shelf": {
+    "criteria": {
+      "has_jungle_shelf": "2025-05-08 13:37:52 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/decorations/fir_sign": {
+    "criteria": {
+      "has_planks": "2025-05-08 13:09:07 +0200"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_shelf": {
+    "criteria": {
+      "has_planks": "2025-05-08 13:37:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-05-08 13:37:52 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2025-05-08 13:09:07 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-08 13:09:07 +0200"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/jungle_barrel": {
+    "criteria": {
+      "has_planks": "2025-05-08 13:37:52 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_table": {
+    "criteria": {
+      "has_jungle_table": "2025-05-08 13:37:52 +0200"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/jungle_chest": {
+    "criteria": {
+      "has_planks": "2025-05-08 13:37:52 +0200"
+    },
+    "done": true
+  },
+  "variantcraftingtables:recipes/misc/ns_fir_crafting_table": {
+    "criteria": {
+      "has_planks": "2025-05-08 13:09:07 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_chair": {
+    "criteria": {
+      "has_jungle_chair": "2025-05-08 13:37:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-05-08 13:44:10 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_desk": {
+    "criteria": {
+      "has_jungle_desk": "2025-05-08 13:37:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-05-08 13:37:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-08 13:37:52 +0200"
+    },
+    "done": true
+  },
+  "chipped:recipes/workbench/carpenters_table": {
+    "criteria": {
+      "has_item": "2025-05-08 13:11:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-05-08 13:36:47 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_bench": {
+    "criteria": {
+      "has_jungle_bench": "2025-05-08 13:37:52 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2025-05-08 13:09:07 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_couch": {
+    "criteria": {
+      "has_jungle_couch": "2025-05-08 13:37:52 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_fancy_bed": {
+    "criteria": {
+      "has_jungle_fancy_bed": "2025-05-08 13:37:52 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2025-05-08 13:09:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-08 13:37:52 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_counter": {
+    "criteria": {
+      "has_jungle_counter": "2025-05-08 13:37:52 +0200"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/chiseled_jungle_bookshelf": {
+    "criteria": {
+      "has_planks": "2025-05-08 13:37:52 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2025-05-08 13:09:07 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
